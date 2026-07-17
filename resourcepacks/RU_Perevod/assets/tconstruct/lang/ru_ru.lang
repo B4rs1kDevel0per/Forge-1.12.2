@@ -1,0 +1,9 @@
+material.slimevine_orange.name=Оранжевая слизневая лоза
+material.slimevine_orange.prefix=Оранжевая слизнелозная %s
+material.slimevine_purple.name=Фиолетовая слизневая лоза
+material.slimevine_purple.prefix=Фиолетовая слизнелозная %s
+material.slimeleaf_orange.name=Оранжевые слизнелистья
+material.slimeleaf_orange.prefix=Оранжевое слизнелиственное %s
+material.slimeleaf_purple.name=Фиолетовые слизнелистья
+material.slimeleaf_purple.prefix=Фиолетовое слизнелиственное %s
+modifier.holy.extra=Против нежити: +%s
