@@ -1,0 +1,285 @@
+champions.identifier=Чемпион
+
+#################
+#    Affixes    #
+#################
+champions.affix.shielding=Щитовой
+champions.affix.molten=Расплавленный
+champions.affix.reflecting=Отражающий
+champions.affix.vortex=Вихревой
+champions.affix.dampening=Подавляющий
+champions.affix.infested=Заражённый
+champions.affix.jailer=Тюремщик
+champions.affix.arctic=Арктический
+champions.affix.cinder=Тлеющий
+champions.affix.desecrator=Осквернитель
+champions.affix.hasty=Проворный
+champions.affix.lively=Живучий
+champions.affix.plagued=Чумной
+champions.affix.adaptable=Адаптивный
+champions.affix.scrapper=Калечащий
+champions.affix.knockback=Отбрасывающий
+
+#################
+#    Effects    #
+#################
+champions.jailed=Заточён
+champions.plague=Чума
+champions.injured=Ранен
+champions.immune=Иммунитет
+
+death.attack.reflecting=%1$s получил(а) по заслугам
+
+#################
+#     Items     #
+#################
+item.champions.champion_egg.name=Призвать чемпиона
+champions.champion_egg.tooltip.tier=Уровень %d
+
+#################
+#    Config     #
+#################
+champions.general.hideeffects=Скрыть эффекты чемпионов
+champions.general.hideeffects.tooltip=Установите, следует ли скрывать частицы чемпионов и эффекты интерфейса
+champions.general.championspawners=Чемпионы из спаунеров
+champions.general.championspawners.tooltip=Установите, могут ли чемпионы появляться из спаунеров мобов
+champions.general.dimensionpermission=Режим разрешения измерений
+champions.general.dimensionpermission.tooltip=Установите, используется ли чёрный или белый список для измерений
+champions.general.dimensionlist=Список измерений
+champions.general.dimensionlist.tooltip=Укажите, какие измерения, в виде числовых ID, находятся в чёрном или белом списке для чемпионов; оставьте пустым, чтобы отключить эту опцию
+champions.general.mobpermission=Режим разрешения мобов
+champions.general.mobpermission.tooltip=Установите, используется ли чёрный или белый список для мобов
+champions.general.moblist=Список мобов
+champions.general.moblist.tooltip=Укажите, какие мобы находятся в чёрном или белом списке для чемпионов; оставьте пустым, чтобы отключить эту опцию
+champions.general.championslist=Список мобов-чемпионов
+champions.general.championslist.tooltip=Список мобов, которые всегда появляются как чемпионы
+champions.general.lootsource=Источник добычи
+champions.general.lootsource.tooltip=Установите, выпадает ли добыча чемпионов из таблицы добычи, из конфига или из обоих источников
+champions.general.lootdrops=Выпадаемая добыча
+champions.general.lootdrops.tooltip=Устанавливает добычу чемпионов, если источник добычи установлен в CONFIG; формат: уровень;modid:имя;метаданные;размер стопки;зачарование(да/нет);вес
+champions.general.lootscaling=Добыча зависит от уровня
+champions.general.lootscaling.tooltip=Устанавливает, зависит ли количество выпадаемой добычи от уровня чемпиона, если активен LootSource.CONFIG
+champions.general.lootfake=Добыча от фальшивых игроков
+champions.general.lootfake.tooltip=Включено, если фальшивые игроки могут вызывать выпадение добычи чемпионов
+champions.general.championnames=Дополнительные имена чемпионов
+champions.general.championnames.tooltip=Дополнительные имена, которые будут добавлены в пул имён чемпионов
+champions.general.championnamesuffixes=Дополнительные суффиксы имён чемпионов
+champions.general.championnamesuffixes.tooltip=Дополнительные суффиксы имён, которые будут добавлены в пул имён чемпионов
+champions.general.beaconrange=Радиус чёрного списка маяка
+champions.general.beaconrange.tooltip=Радиус, в пределах которого активный маяк будет предотвращать появление чемпионов; 0 — отключить
+champions.general.deathmessagetier=Уровень сообщения о смерти
+champions.general.deathmessagetier.tooltip=Уровень чемпиона (и выше), при победе над которым будет отправляться сообщение о смерти; 0 — отключить
+
+champions.general.affix=Настройки аффиксов
+champions.general.affix.tooltip=Настройки, влияющие на отдельные аффиксы
+champions.general.affix.abilityrange=Максимальная дальность способности
+champions.general.affix.abilityrange.tooltip=Установите максимальную дистанцию, с которой мобы могут использовать направленные способности; 0 — отключить
+
+champions.general.affix.adaptable=Адаптивный
+champions.general.affix.adaptable.tooltip=Настройки аффикса Адаптивный
+champions.general.affix.adaptable.damagereductionincrement=Прирост снижения урона
+champions.general.affix.adaptable.damagereductionincrement.tooltip=Увеличение снижения урона за каждую последовательную атаку одним типом урона
+champions.general.affix.adaptable.maxdamagereduction=Максимальное снижение урона
+champions.general.affix.adaptable.maxdamagereduction.tooltip=Максимальное снижение урона
+
+champions.general.affix.arctic=Арктический
+champions.general.affix.arctic.tooltip=Настройки аффикса Арктический
+champions.general.affix.arctic.attackinterval=Интервал атак
+champions.general.affix.arctic.attackinterval.tooltip=Как часто чемпион будет стрелять снарядами (в тиках)
+
+champions.general.affix.cinder=Тлеющий
+champions.general.affix.cinder.tooltip=Настройки аффикса Тлеющий
+champions.general.affix.cinder.attackinterval=Интервал атак
+champions.general.affix.cinder.attackinterval.tooltip=Как часто чемпион будет стрелять снарядами (в тиках)
+
+champions.general.affix.dampening=Подавляющий
+champions.general.affix.dampening.tooltip=Настройки аффикса Подавляющий
+champions.general.affix.dampening.damagereduction=Снижение урона
+champions.general.affix.dampening.damagereduction.tooltip=Величина снижения урона от косвенных атак
+
+champions.general.affix.desecrator=Осквернитель
+champions.general.affix.desecrator.tooltip=Настройки аффикса Осквернитель
+champions.general.affix.desecrator.attackinterval=Интервал атак
+champions.general.affix.desecrator.attackinterval.tooltip=Как часто чемпион будет создавать облака вреда (в тиках)
+champions.general.affix.desecrator.activationticks=Время активации облака
+champions.general.affix.desecrator.activationticks.tooltip=Как долго, в тиках, требуется для активации облака эффекта после появления
+champions.general.affix.desecrator.cloudradius=Радиус облака
+champions.general.affix.desecrator.cloudradius.tooltip=Радиус облака эффекта
+champions.general.affix.desecrator.cloudduration=Длительность облака
+champions.general.affix.desecrator.cloudduration.tooltip=Длительность, в тиках, действия облака эффекта
+
+champions.general.affix.hasty=Проворный
+champions.general.affix.hasty.tooltip=Настройки аффикса Проворный
+champions.general.affix.hasty.movementbonus=Бонус скорости
+champions.general.affix.hasty.movementbonus.tooltip=Базовый бонус к скорости передвижения
+
+champions.general.affix.infested=Заражённый
+champions.general.affix.infested.tooltip=Настройки аффикса Заражённый
+champions.general.affix.infested.silverfishamount=Количество чешуйниц
+champions.general.affix.infested.silverfishamount.tooltip=Сколько чешуйниц появлять за интервал
+champions.general.affix.infested.silverfishinterval=Интервал появления чешуйниц
+champions.general.affix.infested.silverfishinterval.tooltip=Как долго, в тиках, между появлениями чешуйниц
+champions.general.affix.infested.silverfishperhealth=Чешуйниц за единицу здоровья
+champions.general.affix.infested.silverfishperhealth.tooltip=Количество чешуйниц, которыми заражается чемпион за единицу здоровья
+champions.general.affix.infested.silverfishtotal=Общее количество чешуйниц
+champions.general.affix.infested.silverfishtotal.tooltip=Максимальное количество чешуйниц, которое может вместить чемпион одновременно
+
+champions.general.affix.jailer=Тюремщик
+champions.general.affix.jailer.tooltip=Настройки аффикса Тюремщик
+champions.general.affix.jailer.chance=Шанс при атаке
+champions.general.affix.jailer.chance.tooltip=Процентный шанс, что атака заточит цели
+
+champions.general.affix.knockback=Отбрасывающий
+champions.general.affix.knockback.tooltip=Настройки аффикса Отбрасывающий
+champions.general.affix.knockback.multiplier=Множитель отбрасывания
+champions.general.affix.knockback.multiplier.tooltip=Множитель, применяемый к силе отбрасывания
+
+champions.general.affix.lively=Живучий
+champions.general.affix.lively.tooltip=Настройки аффикса Живучий
+champions.general.affix.lively.healamount=Количество исцеления
+champions.general.affix.lively.healamount.tooltip=Количество здоровья, восстанавливаемого за секунду
+champions.general.affix.lively.passivemultiplier=Пассивный множитель
+champions.general.affix.lively.passivemultiplier.tooltip=Множитель регенерации, когда чемпион не в агрессии
+champions.general.affix.lively.cooldown=Перезарядка после атаки
+champions.general.affix.lively.cooldown.tooltip=Установите перезарядку (в секундах) для регенерации после получения урона
+
+champions.general.affix.molten=Расплавленный
+champions.general.affix.molten.tooltip=Настройки аффикса Расплавленный
+champions.general.affix.molten.waterresistant=Защита от воды
+champions.general.affix.molten.waterresistant.tooltip=Получают ли чемпионы урон от воды
+
+champions.general.affix.plagued=Чумной
+champions.general.affix.plagued.tooltip=Настройки аффикса Чумной
+champions.general.affix.plagued.duration=Длительность чумы
+champions.general.affix.plagued.duration.tooltip=Длительность (в тиках) эффекта чумы
+champions.general.affix.plagued.infectpotion=Заразное зелье
+champions.general.affix.plagued.infectpotion.tooltip=Зелье, которое распространяется через эффект чумы
+champions.general.affix.plagued.infectduration=Длительность заражения
+champions.general.affix.plagued.infectduration.tooltip=Длительность (в тиках) заразного зелья
+champions.general.affix.plagued.infectpower=Сила заражения
+champions.general.affix.plagued.infectpower.tooltip=Сила заразного зелья (база: 1)
+champions.general.affix.plagued.infectrange=Радиус заражения
+champions.general.affix.plagued.infectrange.tooltip=Радиус, в пределах которого заражение распространяется от носителей
+
+champions.general.affix.reflecting=Отражающий
+champions.general.affix.reflecting.tooltip=Настройки аффикса Отражающий
+champions.general.affix.reflecting.minimumperc=Минимальный процент урона
+champions.general.affix.reflecting.minimumperc.tooltip=Минимальный процент урона, который отражается обратно
+champions.general.affix.reflecting.maximumperc=Максимальный процент урона
+champions.general.affix.reflecting.maximumperc.tooltip=Максимальный процент урона, который отражается обратно
+champions.general.affix.reflecting.maxdamage=Максимальный урон
+champions.general.affix.reflecting.maxdamage.tooltip=Максимальное количество урона, которое отражается обратно
+champions.general.affix.reflecting.killingblow=Включить смертельный удар
+champions.general.affix.reflecting.killingblow.tooltip=Установите, может ли отражённый урон быть смертельным
+
+champions.general.affix.scrapper=Калечащий
+champions.general.affix.scrapper.tooltip=Настройки аффикса Калечащий
+champions.general.affix.scrapper.chance=Шанс при атаке
+champions.general.affix.scrapper.chance.tooltip=Процентный шанс, что атака ранит цели
+
+champions.general.affix.vortex=Вихревой
+champions.general.affix.vortex.tooltip=Настройки аффикса Вихревой
+champions.general.affix.vortex.strength=Сила вихря
+champions.general.affix.vortex.strength.tooltip=Сила эффекта притягивания вихря
+
+champions.general.client=Клиентские настройки
+champions.general.client.tooltip=Настройки, действующие только на стороне клиента
+champions.general.client.colors=Цвета уровней
+champions.general.client.colors.tooltip=Список цветов в виде чисел для каждого уровня
+champions.general.client.xoffset=Смещение полосы здоровья по X
+champions.general.client.xoffset.tooltip=Смещение по X для полос здоровья чемпионов
+champions.general.client.yoffset=Смещение полосы здоровья по Y
+champions.general.client.yoffset.tooltip=Смещение по Y для полос здоровья чемпионов
+champions.general.client.healthvisibility=Дальность видимости полосы здоровья
+champions.general.client.healthvisibility.tooltip=Расстояние, в блоках, с которого видна полоса здоровья
+champions.general.client.namevisibility=Видимость имени
+champions.general.client.namevisibility.tooltip=Установите true, чтобы отображать имя чемпиона
+
+champions.general.growth=Настройки роста
+champions.general.growth.tooltip=Настройки, влияющие на скорость роста чемпионов
+champions.general.growth.health=Здоровье
+champions.general.growth.health.tooltip=Процентное увеличение здоровья, умноженное на фактор роста
+champions.general.growth.attackdamage=Урон атаки
+champions.general.growth.attackdamage.tooltip=Процентное увеличение урона атаки, умноженное на фактор роста
+champions.general.growth.armor=Броня
+champions.general.growth.armor.tooltip=Увеличение брони, умноженное на фактор роста
+champions.general.growth.armortoughness=Твёрдость брони
+champions.general.growth.armortoughness.tooltip=Увеличение твёрдости брони, умноженное на фактор роста
+champions.general.growth.knockbackresist=Сопротивление отбрасыванию
+champions.general.growth.knockbackresist.tooltip=Увеличение сопротивления отбрасыванию, умноженное на фактор роста
+champions.general.growth.exp=Опыт
+champions.general.growth.exp.tooltip=Увеличение опыта, умноженное на фактор роста
+champions.general.growth.creeperstrength=Сила взрыва крипера
+champions.general.growth.creeperstrength.tooltip=Увеличение силы взрыва крипера, умноженное на уровень, а НЕ на фактор роста
+
+champions.general.scalinghealth=Интеграция Scaling Health
+champions.general.scalinghealth.tooltip=Настройки интеграции с модом Scaling Health
+champions.general.scalinghealth.spawnmodifiers=Модификаторы появления по уровням
+champions.general.scalinghealth.spawnmodifiers.tooltip=Список уровней с числами для умножения шанса появления на сложность (например, '1;0.02' увеличивает появление уровня 1 на 2 процента за единицу сложности). Обратите внимание, что шансы появления уровней накапливаются, поэтому увеличение появления низших уровней естественным образом увеличивает появление высших.
+
+#################
+#     Names     #
+#################
+champions.prefix.0=Nihlus
+champions.prefix.1=Saren
+champions.prefix.2=Infectus
+champions.prefix.3=Gilgamesh
+champions.prefix.4=Scathatch
+champions.prefix.5=Groot
+champions.prefix.6=Diarmuid
+champions.prefix.7=Lancelot
+champions.prefix.8=Mab
+champions.prefix.9=Legion
+champions.prefix.10=Mercurius
+champions.prefix.11=Eligor
+champions.prefix.12=Narcissus
+champions.prefix.13=Moloch
+champions.prefix.14=Nashna
+champions.prefix.15=Bingpot
+champions.prefix.16=Sovereign
+champions.prefix.17=Harbinger
+champions.prefix.18=Drakar
+champions.prefix.19=Galak
+champions.prefix.20=Ayerael
+champions.prefix.21=Shomin
+champions.prefix.22=Akamorn
+champions.prefix.23=Griselm
+
+champions.suffix.0= Забытый
+champions.suffix.1= Всесильный
+champions.suffix.2=, Крушитель Ног
+champions.suffix.3= Позорный
+champions.suffix.4= Разрушитель
+champions.suffix.5= Несчастный
+champions.suffix.6=, Сокрушитель Мечтаний
+champions.suffix.7=, Пьющий Кровь
+champions.suffix.8=, Обитатель Ночи
+champions.suffix.9= Торговец Горем
+champions.suffix.10= Ловец Снов
+champions.suffix.11= Череполом
+champions.suffix.12=, Пожиратель Куриц
+champions.suffix.13= Певец Родов
+champions.suffix.14= Рождённый в Крови
+champions.suffix.15=, Посланник Края
+champions.suffix.16= Безжалостный
+champions.suffix.17= Блуждающий Кошмар
+champions.suffix.18= Костолом
+champions.suffix.19=, Пожиратель Душ
+champions.suffix.20= Пустой
+champions.suffix.21= Мерзость
+champions.suffix.22= Теневой
+champions.suffix.23= Sanguis
+
+#################
+#    Command    #
+#################
+champions.commands.spawnchampion.usage=/spawnchampion <существо> <уровень> [аффиксы]...
+champions.commands.spawnchampion.entityError=%s не является допустимым существом
+champions.commands.spawnchampion.tierError=%s не является допустимым уровнем
+champions.commands.spawnchampion.affixError=%s не является допустимым идентификатором аффикса
+champions.commands.spawnchampion.success=Чемпион призван в %s
+
+champions.commands.spawnchampionat.usage=/spawnchampionat <x> <y> <z> <существо> <уровень> [аффиксы]...
+
+champions.commands.championegg.usage=/championegg <существо> <уровень> [аффиксы]...
+champions.commands.championegg.success=Дано яйцо чемпиона игроку %s
