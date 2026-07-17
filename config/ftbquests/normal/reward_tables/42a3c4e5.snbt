@@ -1,5 +1,5 @@
 {
-	title: "IC2_END",
+	title: "IC2: финал",
 	loot_size: 1,
 	rewards: [{
 		item: "ic2:resource 1 5",

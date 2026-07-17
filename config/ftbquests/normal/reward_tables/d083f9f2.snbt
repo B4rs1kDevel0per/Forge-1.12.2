@@ -1,5 +1,5 @@
 {
-	title: "IC2_NEXTGEN",
+	title: "IC2: новое поколение",
 	loot_size: 1,
 	rewards: [{
 		item: "ic2:crafting 1 2",

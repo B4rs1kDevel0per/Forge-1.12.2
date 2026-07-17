@@ -1,5 +1,5 @@
 {
-	title: "IC2_LOW",
+	title: "IC2: низкий",
 	loot_size: 1,
 	rewards: [{
 		item: "ic2:ingot 1 2",
