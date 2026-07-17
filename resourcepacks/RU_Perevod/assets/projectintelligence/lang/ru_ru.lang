@@ -1,0 +1,247 @@
+pi.gui.project_intelligence.title=Project Intelligence
+pi.gui.navigation.title=Навигация
+pi.config.pi_configuration.title=Настройки PI
+pi.config.pi_errors.title=Произошла одна или несколько ошибок
+pi.root_page.name=Главная
+
+//########### Style Properties ###########
+//Style Editor
+pi.style.edit_style_properties.txt=Изменить свойства стиля
+pi.style.set_boolean.txt=Переключить логическое значение
+pi.style.set_value.txt=Изменить целочисленное значение
+pi.style.set_colour.txt=Изменить цвет
+pi.style.set_edit_sub_values.txt=Нажмите, чтобы просмотреть подзначения
+pi.style.right_click_options.txt=Правый клик для дополнительных опций
+pi.style.integer_value.txt=Целочисленное значение
+pi.style.colour_value.txt=Значение цвета
+pi.style.transparent.txt=Прозрачный
+pi.style.semi_transparent.txt=Полупрозрачный
+pi.style.opaque.txt=Непрозрачный
+pi.style.load_preset.txt=Загрузить предустановку стиля
+pi.style.save_overwrite_preset.txt=Сохранить или перезаписать пользовательскую предустановку
+pi.style.save_preset.info=Сохранить текущую конфигурацию стиля как новую предустановку
+pi.style.save_no_name.txt=Пожалуйста, введите имя для предустановки
+pi.style.save_overwrite.txt=Предустановка с таким именем уже существует. Перезаписать?
+pi.style.delete_preset_confirm.txt=Вы уверены, что хотите удалить эту предустановку стиля?
+pi.style.confirm_delete.txt=Подтвердить удаление
+pi.style.confirm_load_unsaved.txt=Похоже, вы внесли изменения в текущий стиль. Если загрузить предустановку, несохранённые изменения будут потеряны.
+pi.style.shade_borders.info=Не совместимо с ванильной текстурой. Применяет затенение к границам для придания выпуклого вида.
+
+pi.style.show_subs.txt=Показать подэлементы
+pi.style.hide_subs.txt=Скрыть подэлементы
+
+//Style Property Names
+//Menu
+pi.style.menu.prop=Меню
+pi.style.close_button.prop=Кнопка закрытия
+pi.style.size_buttons.prop=Кнопки изменения размера
+pi.style.settings_button.prop=Кнопка настроек
+pi.style.style_editor.prop=Редактор стиля
+pi.style.preset_window.prop=Окно предустановок
+pi.style.user_dialogs.prop=Диалоги пользователя
+
+//Page List
+pi.style.page_list.prop=Список страниц
+pi.style.page_buttons.prop=Кнопки страниц
+pi.style.page_back_button.prop=Кнопка родительской страницы
+pi.style.page_icon.prop=Значок страницы
+pi.style.hide_button.prop=Кнопки навигации
+pi.style.dir_path.prop=Путь к каталогу
+pi.style.dir_path.info=Это вертикальная панель слева от списка страниц, отображающая путь к текущей странице.
+pi.style.dir_buttons.prop=Кнопки каталогов
+
+//Markdown Window
+pi.style.md_window.prop=Окно содержимого
+
+
+pi.style.gui_docs.prop=Документация интерфейса
+pi.style.gui_docs.info=Используется для настройки стиля документации, отображаемой в поддерживаемых интерфейсах
+
+//Colour
+pi.style.colour.prop=Основной цвет
+pi.style.hover.prop=Наведение
+pi.style.background.prop=Фон
+pi.style.background_hover.prop=Фон при наведении
+pi.style.border.prop=Граница
+pi.style.border_hover.prop=Граница при наведении
+pi.style.text_colour.prop=Цвет текста
+pi.style.text_hover.prop=Текст при наведении
+
+//misc
+pi.style.button_style.prop=Стиль кнопки
+pi.style.vanilla_tex.prop=Ванильная текстура
+pi.style.thick_borders.prop=Толстые границы
+pi.style.shaded_borders.prop=Затенённые границы
+pi.style.invert_shade.prop=Инвертировать затенение
+pi.style.invert_shade.info=Инвертирует цвета затенения, придавая вдавленный вид.
+pi.style.header.prop=Заголовок
+pi.style.body.prop=Тело
+pi.style.footer.prop=Подвал
+pi.style.search.prop=Поиск
+pi.style.scroll_bar.prop=Полоса прокрутки
+pi.style.scroll_slider.prop=Ползунок прокрутки
+pi.style.text_shadow.prop=Тень текста
+pi.style.sub_elements.info=Используется окнами, такими как редактор стиля и окно конфигурации, имеющими отдельно настраиваемые внутренние компоненты.
+pi.style.sub_elements.prop=Подэлементы
+pi.style.small_bar.prop=Компактный
+pi.style.icon.prop=Значок
+
+//default presets
+pi.style.builtin=(Встроенная)
+pi.style.default.vanilla=Vanilla
+pi.style.default.darcula=Darcula
+
+//########### Misc ###########
+
+//Buttons
+pi.button.close=Закрыть
+pi.button.copy_value=Копировать значение
+pi.button.paste_value=Вставить значение
+pi.button.copy_hex_value=Копировать HEX
+pi.button.paste_hex_value=Вставить HEX
+pi.button.lighten=Светлее
+pi.button.darken=Темнее
+pi.button.open_style_editor=Открыть редактор стиля
+pi.button.close_style_editor=Закрыть редактор стиля
+pi.button.save=Сохранить
+pi.button.delete=Удалить
+pi.button.yes=Да
+pi.button.cancel=Отмена
+pi.button.copy_to_clipboard=Копировать в буфер обмена
+pi.button.search_settings=Режим поиска
+pi.button.go_back=Назад
+pi.button.go_forward=Вперёд
+pi.button.prev_page=Предыдущая
+pi.button.next_page=Следующая
+pi.button.previous=Назад
+pi.button.next=Далее
+pi.button.skip=Пропустить
+pi.button.show_me_later=Показать в следующий раз
+pi.button.more_information=Подробнее
+pi.button.deny_access=Запретить доступ
+pi.button.open_in_pi_main=Открыть в главном интерфейсе Project Intelligence
+pi.button.next_style=Следующий стиль
+
+//Config
+pi.config.basic_config=Основная конфигурация
+pi.config.open_style_settings=Открыть настройки стиля
+
+pi.config.advanced_config=Расширенная конфигурация
+pi.config.edit_mode=Режим редактирования
+pi.config.edit_repo_loc=Изменить расположение репозитория
+pi.config.edit_repo_loc.info=Для использования режима редактирования необходимо клонировать репозиторий документации и указать расположение папки ModDocs
+pi.config.edit_repo_select_title=Укажите абсолютный путь к папке ModDocs редактируемого репозитория
+pi.config.reload_from_disk=Перезагрузить с диска
+pi.config.reload_from_disk.info=Перезагружает всю документацию с диска.
+pi.config.reload_documentation=Перезагрузить документацию
+pi.config.reload_documentation.info=Проверяет и скачивает обновления документации, затем перезагружает интерфейс.
+pi.config.open_editor=Открыть редактор PI
+pi.lang.disable_override=Отключить переопределение
+pi.config.set_pi_language=Язык PI
+pi.config.set_pi_language.info=По умолчанию PI использует язык Minecraft, но эта опция позволяет переопределить его.
+pi.config.set_pi_language_note.info=Обратите внимание: многие языки могут не поддерживаться некоторыми модами. Если вы хотите помочь с переводами, узнайте, как это сделать, на главной странице PI.
+pi.lang.mc_default=MC:
+pi.config.max_tabs.title=Установить максимальное количество вкладок.
+pi.config.max_tabs.info=Эта настройка позволяет установить максимальное количество вкладок, которые можно открыть одновременно.
+pi.config.max_tabs=Максимальное количество вкладок
+pi.config.et_fluid=ET: поиск жидкости
+pi.config.et_fluid.info=Если выключено, функция "Explain This" будет игнорировать жидкости, если в пределах досягаемости нет других блоков.
+
+
+//Button Hover Text
+pi.button.close.info=Закрыть интерфейс
+pi.button.minimize.info=Уменьшить интерфейс
+pi.button.maximize.info=Увеличить интерфейс
+pi.button.settings.info=Настройки
+pi.button.toggle_nav_window.info=Переключить окно навигации
+
+//Errors / Notifications
+pi.error.page_not_localized.info=Похоже, эта страница ещё не переведена на выбранный вами язык!
+pi.error.page_not_localized_click_here.info=Нажмите здесь, чтобы увидеть доступные языки для этой страницы или изменить язык в меню настроек PI.
+pi.error.page_not_localized_alt_version.info=Или попробуйте другую версию мода (ПКМ по странице -> Переопределить версию мода)
+pi.button.language_override_page.info=Для этой страницы включено переопределение языка. Нажмите здесь, чтобы настроить переопределение.
+pi.button.language_override_mod.info=Для этого мода включено переопределение языка. Нажмите здесь, чтобы настроить переопределение.
+pi.error.page_lang_outdated=Этот перевод страницы был создан для предыдущей ревизии %s. Страница может быть устаревшей.
+pi.md.no_recipe_for_item.txt=Для этого предмета не найден рецепт!
+pi.md.link_confirmation.txt=Вы уверены, что хотите открыть следующую ссылку в браузере?
+
+pi.notification.show_tutorial_later.txt=Экран введения PI будет отображён при следующем запуске игры.
+
+//Misc UI Text
+pi.popup.select_language=Выберите язык
+pi.popup.select_version=Выберите версию
+pi.pagebtn.verified=Проверено
+pi.pagebtn.verified.info=Эта документация была написана или проверена членом команды разработки этого мода.
+pi.pagebtn.version_override=Переопределение версии мода включено
+pi.pagebtn.version_override.info=Нажмите здесь, чтобы настроить переопределение версии.
+
+//Page context menu items
+pi.page.cm.page_options=Опции страницы
+pi.page.cm.open_new_tab=Открыть в новой вкладке
+pi.page.cm.override_lang=Переопределить язык страницы
+pi.page.cm.override_mod_lang=Переопределить язык мода
+pi.page.cm.set_home_page=Сделать домашней страницей
+pi.page.cm.override_mod_version=Переопределить версию мода
+
+//Update Manager
+pi.update_manager.title=Менеджер обновлений PI
+pi.update.status.inactive=Неактивно
+pi.update.status.dl_master_manifest=Получение главного манифеста
+pi.update.status.dl_mod_manifests=Получение манифестов модов
+pi.update.status.dl_mod_documentation=Скачивание обновлений документации
+pi.update.status.reload_documentation=Перезагрузка документации
+
+//Search
+pi.search.mode.search_mode=Режим поиска
+pi.search.mode.everywhere=Везде
+pi.search.mode.selected_mod=Текущий мод
+pi.search.mode.page_sub_pages=Эта страница + подстраницы
+pi.search.mode.page_only=Только эта страница
+
+//Gui in Gui
+pi.gui_in_gui.display_doc=PI
+pi.gui_in_gui.display_doc.info=Отобразить документацию Project Intelligence, связанную с этим интерфейсом.
+
+//Chat Messages
+pi.msg.no_doc_found_for=Не найдено документации, связанной с %s
+pi.msg.et_miss=Цель не найдена. Попробуйте посмотреть на что-нибудь интересное!
+
+//Keybindings
+pi.key.open_pi=Открыть Project Intelligence
+pi.key.et_gui=Показать документацию для предмета в слоте
+pi.key.et_world=ET (Explain This)
+
+//PI Introduction Screen
+pi.info_screen.welcome.title=Добро пожаловать в Project Intelligence!
+pi.info_screen.welcome.text=Это проект с открытым исходным кодом, созданный brandon3055. Цель проекта — создать по-настоящему универсальный мод документации, используя силу сообщества Minecraft. И как это работает? Для начала, любой разработчик модов может добавить документацию для своих модов в PI. Проблема в том, что у разработчиков мало времени, и большинство из них не сможет заниматься чем-то подобным, что, на мой взгляд, является серьёзной проблемой большинства существующих модов документации. PI решает эту проблему, давая возможность любому члену сообщества вносить вклад, создавая документацию для различных модов с помощью встроенного редактора. Затем они могут отправить свою документацию через PR, и после проверки она будет добавлена в онлайн-репозиторий.
+
+pi.info_screen.guide_intro.title=Что это?
+pi.info_screen.guide_intro.text=Это введение при первом запуске. Оно проведёт вас по основным возможностям Project Intelligence. Если вы уже были здесь, можете смело пропустить это введение. Большинство функций PI интуитивно понятны, но есть несколько менее очевидных, которые могут оказаться полезными.
+
+pi.info_screen.basic_overview.title=Обзор
+pi.info_screen.basic_overview.text=Здесь всё должно быть интуитивно понятно. Наведите курсор на любую стрелку, чтобы увидеть информацию об этом элементе.
+
+pi.info_screen.pi_interaction.title=Общее взаимодействие с PI
+pi.info_screen.pi_interaction.text=Это общий обзор различных способов использования PI. Как вы, вероятно, уже догадались, PI можно открыть, нажав %s. У PI также есть функция "Explain This", позволяющая нажать %s, наведя курсор на предмет в инвентаре, чтобы просмотреть связанную с ним документацию. Также можно нажать %s, чтобы просмотреть доступную документацию для блока или существа, на которые вы смотрите в мире. Примечания по интерфейсу PI: каждый раз при открытии главного интерфейса PI вы возвращаетесь к ранее открытой странице. При первом открытии PI в сессии по умолчанию открывается "Домашняя страница" — страница мода Project Intelligence, но вы можете изменить её, кликнув правой кнопкой по странице в списке и выбрав "Сделать домашней страницей".
+
+pi.info_screen.ui_style.title=Стиль интерфейса
+pi.info_screen.ui_style.text=Этот интерфейс можно очень гибко настроить! Настройки стиля находятся в меню по кнопке опций в правом верхнем углу PI. Там вы найдёте встроенные предустановки стиля и возможность редактировать текущую предустановку, которую затем можно сохранить как собственную пользовательскую!
+
+pi.info_screen.contributing.title=Вклад в проект
+pi.info_screen.contributing.text=Если вы хотите внести вклад, написав документацию для мода, ознакомьтесь со страницей "Contribute" в документации PI, которую можно найти... в PI!
+
+pi.intro.arrow_info.back_forward.txt=Кнопки назад/вперёд. Они работают как одноимённые кнопки в браузере, позволяя вернуться к ранее посещённым страницам, а затем снова двинуться вперёд.
+pi.intro.arrow_info.toggle_nav.txt=Позволяет скрыть/показать окно навигации.
+pi.intro.arrow_info.button_list.txt=Это простая древовидная система навигации, в которой корневой раздел содержит список модов. Когда вы выбираете страницу из этого списка, здесь отображаются её подстраницы, если они есть. В противном случае страница просто выделяется.
+pi.intro.arrow_info.current_directory.txt=Показывает сокращённый путь к текущей странице, например, Главная/Draconic Evolution/Draconium Chest. Можно использовать для перехода к предыдущей странице.
+pi.intro.arrow_info.search_box.txt=Это поле поиска. Всё довольно очевидно — позволяет искать страницы.
+pi.intro.arrow_info.search_settings.txt=Настройки поиска позволяют изменить область поиска.
+pi.intro.arrow_info.settings.txt=Здесь находятся все настройки PI. Стоит отметить, что все настройки PI внутриигровые, и нет редактируемого пользователем конфигурационного файла.
+pi.intro.arrow_info.minimize.txt=Свернуть/Развернуть позволяют изменить размер этого интерфейса.
+pi.intro.arrow_info.content_tabs.txt=ВКЛАДКИ! Да, в PI есть вкладки. Чтобы открыть страницу в новой вкладке, просто нажмите среднюю кнопку мыши или кликните правой кнопкой -> Открыть в новой вкладке.
+pi.intro.arrow_info.content_window.txt=Это окно содержимого. Именно здесь находится содержимое!
+
+//Internet Disclaimer
+pi.internet_access_info.txt=Пожалуйста, имейте в виду: вся документация Project Intelligence хранится в Интернете, поэтому для корректной работы моду требуется доступ в Интернет.
+pi.internet_access_more_info.txt=При первом запуске PI скачает и кэширует все доступные страницы документации для установленных модов. Изображения загружаются и кэшируются по мере необходимости, чтобы сократить использование Интернета.
+pi.internet_access_denied.txt=Пожалуйста, имейте в виду: в настоящее время PI не поддерживает работу в "Offline Mode". Если вы хотите использовать PI в будущем, необходимо разрешить доступ в Интернет.
