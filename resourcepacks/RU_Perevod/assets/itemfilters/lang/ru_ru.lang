@@ -1,0 +1,26 @@
+item.itemfilters.filter.name=Предметный фильтр
+item.itemfilters.missing.name=Отсутствующий предмет
+
+filter.itemfilters.always_true.name=Всегда истина
+filter.itemfilters.always_true.filter=Соответствует всем предметам
+
+filter.itemfilters.or.name=Фильтр ИЛИ
+filter.itemfilters.or.filter=Должен соответствовать один
+
+filter.itemfilters.and.name=Фильтр И
+filter.itemfilters.and.filter=Должны соответствовать все
+
+filter.itemfilters.not.name=Фильтр НЕ
+filter.itemfilters.not.filter=Инвертировать фильтр
+
+filter.itemfilters.xor.name=Фильтр Исключающее ИЛИ
+filter.itemfilters.xor.filter=Один из двух, но не оба
+
+filter.itemfilters.ore.name=Фильтр по словарю руд
+filter.itemfilters.ore.filter=Имена из словаря руд, например 'ingotCopper' или 'cobblestone'
+
+filter.itemfilters.creative_tab.name=Фильтр по вкладкам творчества
+filter.itemfilters.creative_tab.filter=Используйте ID вкладки творчества
+
+filter.itemfilters.mod.name=Фильтр по моду
+filter.itemfilters.mod.filter=Используйте ID мода

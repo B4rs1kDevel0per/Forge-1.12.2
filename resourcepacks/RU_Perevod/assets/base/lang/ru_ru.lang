@@ -1,0 +1,27 @@
+itemGroup.materials.base=B.A.S.E: материалы
+error.base.null_part=Нет детали
+
+base.part.gear=Шестерня
+base.part.plate=Пластина
+base.part.dust=Пыль
+base.part.ingot=Слиток
+base.part.nugget=Самородок
+base.part.beam=Балка
+base.part.bolt=Болт
+base.part.block=Блок
+base.part.ore=Руда
+base.part.poor_ore=Бедная руда
+base.part.dense_ore=Богатая руда
+
+item.wrench.name=Гаечный ключ
+
+base:api.multiblock.validation.success=Проверка машины прошла успешно.
+base:api.multiblock.validation.too_few_parts=Машина слишком мала.
+base:api.multiblock.validation.machine_too_large=Машина слишком велика, она может занимать не более %1$d блоков в измерении %2$s.
+base:api.multiblock.validation.machine_too_small=Машина слишком мала, она должна занимать не менее %1$d блоков в измерении %2$s.
+base:api.multiblock.validation.invalid_part=Деталь на %1$d, %2$d, %3$d несовместима с этой машиной
+base:api.multiblock.validation.invalid_part_for_frame=Блок на %1$d, %2$d, %3$d не подходит для рамы машины
+base:api.multiblock.validation.invalid_part_for_bottom=Блок на %1$d, %2$d, %3$d не подходит для нижнего слоя машины
+base:api.multiblock.validation.invalid_part_for_top=Блок на %1$d, %2$d, %3$d не подходит для верхнего слоя машины
+base:api.multiblock.validation.invalid_part_for_sides=Блок на %1$d, %2$d, %3$d не подходит для стенок машины
+base:api.multiblock.validation.invalid_part_for_interior=Блок на %1$d, %2$d, %3$d не подходит для внутренней части машины
