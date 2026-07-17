@@ -209,7 +209,7 @@ pi.msg.et_miss=Цель не найдена. Попробуйте посмотр
 //Keybindings
 pi.key.open_pi=Открыть Project Intelligence
 pi.key.et_gui=Показать документацию для предмета в слоте
-pi.key.et_world=ET (Explain This)
+pi.key.et_world=ET (Объясни это)
 
 //PI Introduction Screen
 pi.info_screen.welcome.title=Добро пожаловать в Project Intelligence!
