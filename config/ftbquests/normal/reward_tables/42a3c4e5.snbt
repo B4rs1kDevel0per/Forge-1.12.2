@@ -1,0 +1,64 @@
+{
+	title: "IC2_END",
+	loot_size: 1,
+	rewards: [{
+		item: "ic2:resource 1 5",
+		count: 10
+	},
+	{
+		item: "ic2:resource 1 7",
+		count: 10
+	},
+	{
+		item: "ic2:resource 1 6",
+		count: 10
+	},
+	{
+		item: "ic2:resource 1 8",
+		count: 10
+	},
+	{
+		item: "ic2:resource 1 9",
+		count: 10
+	},
+	{
+		item: "ic2:crafting 1 2",
+		count: 12
+	},
+	{
+		item: "ic2additions:hybrid_circuit",
+		count: 8
+	},
+	{
+		item: "ic2additions:nano_circuit",
+		count: 3
+	},
+	{
+		item: "ic2:resource 1 13",
+		count: 4
+	},
+	{
+		item: "ic2:resource 1 12",
+		count: 10
+	},
+	{
+		item: "ic2:dust 1 11",
+		count: 24
+	},
+	{
+		item: {
+			id: "ic2:energy_crystal",
+			tag: {},
+			Damage: 26s
+		},
+		count: 8
+	},
+	{
+		item: {
+			id: "ic2:lapotron_crystal",
+			tag: {},
+			Damage: 26s
+		},
+		count: 6
+	}]
+}

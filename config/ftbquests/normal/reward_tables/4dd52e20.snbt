@@ -1,0 +1,60 @@
+{
+	title: "IC2_LOW",
+	loot_size: 1,
+	rewards: [{
+		item: "ic2:ingot 1 2",
+		count: 12
+	},
+	{
+		item: "ic2:ingot 1 3",
+		count: 12
+	},
+	{
+		item: "ic2:ingot 1 4"
+	},
+	{
+		item: "ic2:dust 1 11",
+		count: 2
+	},
+	{
+		item: "ic2:crafting 1 1",
+		count: 4
+	},
+	{
+		item: "ic2:crafting 1 2",
+		count: 2
+	},
+	{
+		item: "ic2:crafting 1 3",
+		count: 4
+	},
+	{
+		item: "ic2:crafting 1 15",
+		count: 2
+	},
+	{
+		item: "ic2:crafting 1 6",
+		count: 4
+	},
+	{
+		item: "ic2:crafting 1 5",
+		count: 4
+	},
+	{
+		item: "ic2:crafting 1 24",
+		count: 16
+	},
+	{
+		item: {
+			id: "ic2:cable",
+			tag: {
+				type: 0b,
+				insulation: 1b
+			}
+		},
+		count: 16
+	},
+	{
+		item: "ic2additions:music_disc_communism"
+	}]
+}

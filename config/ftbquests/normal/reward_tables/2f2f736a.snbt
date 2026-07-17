@@ -1,0 +1,43 @@
+{
+	title: "MEK_LOW",
+	loot_size: 1,
+	rewards: [{
+		item: "mekanism:enrichedalloy",
+		count: 8
+	},
+	{
+		item: "mekanism:energytablet"
+	},
+	{
+		item: "mekanism:controlcircuit",
+		count: 8
+	},
+	{
+		item: "mekanism:compressedcarbon",
+		count: 2
+	},
+	{
+		item: "mekanism:compressedredstone",
+		count: 2
+	},
+	{
+		item: "mekanism:compresseddiamond",
+		count: 2
+	},
+	{
+		item: "mekanism:ingot 1 1",
+		count: 8
+	},
+	{
+		item: "mekanism:ingot 1 2",
+		count: 8
+	},
+	{
+		item: "mekanism:ingot 1 4",
+		count: 8
+	},
+	{
+		item: "mekanism:ingot 1 6",
+		count: 8
+	}]
+}

@@ -1,0 +1,52 @@
+{
+	title: "IC2_MID",
+	loot_size: 1,
+	rewards: [{
+		item: "ic2:crafting 1 1",
+		count: 12
+	},
+	{
+		item: "ic2:crafting 1 2",
+		count: 8
+	},
+	{
+		item: "ic2additions:hybrid_circuit",
+		count: 3
+	},
+	{
+		item: {
+			id: "ic2:energy_crystal",
+			tag: {},
+			Damage: 26s
+		},
+		count: 2
+	},
+	{
+		item: "ic2:resource 1 5",
+		count: 8
+	},
+	{
+		item: "ic2:resource 1 6",
+		count: 8
+	},
+	{
+		item: "ic2:resource 1 7",
+		count: 8
+	},
+	{
+		item: "ic2:resource 1 8",
+		count: 8
+	},
+	{
+		item: "ic2:resource 1 9",
+		count: 8
+	},
+	{
+		item: "ic2:resource 1 12",
+		count: 8
+	},
+	{
+		item: "ic2:resource 1 13",
+		count: 4
+	}]
+}

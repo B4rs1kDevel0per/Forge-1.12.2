@@ -1,0 +1,79 @@
+{
+	title: "IC2_NEXTGEN",
+	loot_size: 1,
+	rewards: [{
+		item: "ic2:crafting 1 2",
+		count: 21
+	},
+	{
+		item: "ic2additions:hybrid_circuit",
+		count: 16
+	},
+	{
+		item: "ic2additions:nano_circuit",
+		count: 8
+	},
+	{
+		item: "ic2additions:quantum_circuit",
+		count: 4
+	},
+	{
+		item: {
+			id: "ic2:lapotron_crystal",
+			tag: {},
+			Damage: 26s
+		},
+		count: 8
+	},
+	{
+		item: {
+			id: "ic2additions:plasmatron_crystal",
+			tag: {},
+			Damage: 26s
+		},
+		count: 6
+	},
+	{
+		item: "ic2:misc_resource 1 1",
+		count: 12
+	},
+	{
+		item: "ic2:crafting 1 4",
+		count: 4
+	},
+	{
+		item: "ic2additions:sanarium_shard",
+		count: 21
+	},
+	{
+		item: "ic2additions:sanarium",
+		count: 4
+	},
+	{
+		item: "ic2additions:sanarium_alloy",
+		count: 2
+	},
+	{
+		item: "ic2additions:fullerite",
+		count: 2
+	},
+	{
+		item: "ic2additions:quantum_core"
+	},
+	{
+		item: "ic2additions:iridium_iron_plate",
+		count: 6
+	},
+	{
+		item: "ic2additions:reinforced_iridium_iron_plate",
+		count: 6
+	},
+	{
+		item: "ic2additions:photon",
+		count: 2
+	},
+	{
+		item: "ic2additions:irradiant_uranium_ingot",
+		count: 16
+	}]
+}

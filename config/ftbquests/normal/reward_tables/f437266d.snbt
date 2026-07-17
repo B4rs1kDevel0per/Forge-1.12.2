@@ -1,0 +1,48 @@
+{
+	title: "IC2_oVERLORD",
+	loot_size: 1,
+	rewards: [{
+		item: "ic2additions:sanarium_shard",
+		count: 32
+	},
+	{
+		item: "ic2additions:sanarium",
+		count: 24
+	},
+	{
+		item: "ic2additions:sanarium_alloy",
+		count: 12
+	},
+	{
+		item: "ic2additions:enrichted_sanarium",
+		count: 12
+	},
+	{
+		item: "ic2additions:enrichted_sanarium_alloy",
+		count: 8
+	},
+	{
+		item: "ic2additions:photon",
+		count: 10
+	},
+	{
+		item: "ic2:misc_resource 1 1",
+		count: 48
+	},
+	{
+		item: "ic2:crafting 1 4",
+		count: 24
+	},
+	{
+		item: "ic2additions:duritanium_ingot",
+		count: 8
+	},
+	{
+		item: "ic2additions:raw_tritanium_ingot",
+		count: 4
+	},
+	{
+		item: "ic2additions:netherstar_uranium",
+		count: 4
+	}]
+}

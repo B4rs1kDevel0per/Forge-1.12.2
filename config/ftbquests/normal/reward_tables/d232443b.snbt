@@ -1,0 +1,40 @@
+{
+	title: "MEK_MID",
+	loot_size: 1,
+	rewards: [{
+		item: "mekanism:ingot",
+		count: 2
+	},
+	{
+		item: "mekanism:ingot 1 1",
+		count: 12
+	},
+	{
+		item: "mekanism:ingot 1 3",
+		count: 2
+	},
+	{
+		item: "mekanism:ingot 1 4",
+		count: 21
+	},
+	{
+		item: "mekanism:controlcircuit 1 1",
+		count: 8
+	},
+	{
+		item: "mekanism:reinforcedalloy",
+		count: 8
+	},
+	{
+		item: "mekanism:compresseddiamond",
+		count: 8
+	},
+	{
+		item: "mekanism:basicblock 1 8",
+		count: 2
+	},
+	{
+		item: "mekanism:controlcircuit 1 2",
+		count: 4
+	}]
+}

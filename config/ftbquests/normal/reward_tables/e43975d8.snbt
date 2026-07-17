@@ -1,0 +1,54 @@
+{
+	title: "random_high",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:iron_ingot",
+		count: 48
+	},
+	{
+		item: "minecraft:gold_ingot",
+		count: 32
+	},
+	{
+		item: "ic2:ingot 1 1",
+		count: 32
+	},
+	{
+		item: "ic2:ingot 1 2",
+		count: 64
+	},
+	{
+		item: "ic2:ingot 1 3",
+		count: 24
+	},
+	{
+		item: "ic2:ingot 1 4",
+		count: 32
+	},
+	{
+		item: "ic2:ingot 1 5",
+		count: 32
+	},
+	{
+		item: "avaritia:resource 1 1",
+		count: 8
+	},
+	{
+		item: "mekanism:ingot 1 1",
+		count: 32
+	},
+	{
+		item: "minecraft:diamond",
+		count: 24
+	},
+	{
+		item: "minecraft:nether_star"
+	},
+	{
+		item: "draconicevolution:dragon_heart"
+	},
+	{
+		item: "draconicevolution:draconium_ingot",
+		count: 16
+	}]
+}

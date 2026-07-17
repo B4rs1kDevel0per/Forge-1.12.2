@@ -1,0 +1,58 @@
+{
+	title: "random_low",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:leather",
+		count: 8
+	},
+	{
+		item: "minecraft:log",
+		count: 16
+	},
+	{
+		item: "minecraft:cobblestone",
+		count: 32
+	},
+	{
+		item: "minecraft:coal",
+		count: 12
+	},
+	{
+		item: "minecraft:cactus",
+		count: 8
+	},
+	{
+		item: "minecraft:deadbush"
+	},
+	{
+		item: "minecraft:iron_ingot",
+		count: 4
+	},
+	{
+		item: "minecraft:gold_ingot",
+		count: 2
+	},
+	{
+		item: "minecraft:diamond"
+	},
+	{
+		item: "minecraft:hay_block",
+		count: 4
+	},
+	{
+		item: "minecraft:iron_pickaxe"
+	},
+	{
+		item: "ic2:ingot 1 1",
+		count: 2
+	},
+	{
+		item: "ic2:ingot 1 3"
+	},
+	{
+		item: "ic2:ingot 1 4"
+	},
+	{
+		item: "ic2:ingot 1 5"
+	}]
+}
