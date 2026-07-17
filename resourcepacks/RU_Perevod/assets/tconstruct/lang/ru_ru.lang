@@ -7,3 +7,8 @@ material.slimeleaf_orange.prefix=Оранжевое слизнелиственн
 material.slimeleaf_purple.name=Фиолетовые слизнелистья
 material.slimeleaf_purple.prefix=Фиолетовое слизнелиственное %s
 modifier.holy.extra=Против нежити: +%s
+
+item.tconstruct.materials.slimecrystal_blue.tooltip=Материал для инструментов
+item.tconstruct.materials.slimecrystal_magma.tooltip=Материал для инструментов
+
+item.tconstruct.throwball.efln.name=Шар EFLN
