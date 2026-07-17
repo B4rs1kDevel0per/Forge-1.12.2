@@ -1,0 +1,20 @@
+{
+	x: -1.0d,
+	y: -21.0d,
+	dependencies: [
+		"6313b90c"
+	],
+	tasks: [{
+		uid: "9354b2cf",
+		type: "item",
+		items: [{
+			item: "ic2additions:photon"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "2fe0e895",
+		type: "random",
+		table: 7
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: -1.5d,
+	y: -1.5d,
+	dependencies: [
+		"93f242d8"
+	],
+	tasks: [{
+		uid: "fa01cde2",
+		type: "item",
+		items: [{
+			item: "denseneutroncollectors:compressed_neutron_collector"
+		}]
+	}],
+	rewards: [{
+		uid: "69d2fa9b",
+		type: "item",
+		item: "draconicevolution:wyvern_core",
+		count: 4
+	},
+	{
+		uid: "d66d81d1",
+		type: "item",
+		item: "ic2:misc_resource 1 1",
+		count: 12
+	}]
+}

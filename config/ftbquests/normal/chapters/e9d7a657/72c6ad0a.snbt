@@ -1,0 +1,31 @@
+{
+	x: 0.0d,
+	y: -22.5d,
+	text: [
+		"Взрывоопасно!"
+	],
+	dependencies: [
+		"38ba0d92",
+		"ea4dce5d",
+		"d96fed17",
+		"6dd448b9"
+	],
+	tasks: [{
+		uid: "1a09b77f",
+		type: "item",
+		items: [{
+			item: "ic2additions:duritanium_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "c90a78d7",
+		type: "random",
+		table: 8
+	},
+	{
+		uid: "c91bc3f1",
+		type: "item",
+		item: "ic2additions:photon",
+		count: 8
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -5.0d,
+	y: -4.5d,
+	dependencies: [
+		"a3e4fd52",
+		"4c3e2114"
+	],
+	tasks: [{
+		uid: "af26ac34",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:entropy_manipulator",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f39f29eb",
+		type: "item",
+		item: "appliedenergistics2:material 1 24",
+		count: 4
+	}]
+}

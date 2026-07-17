@@ -1,0 +1,20 @@
+{
+	x: -6.0d,
+	y: -4.5d,
+	dependencies: [
+		"bf11fb9c"
+	],
+	tasks: [{
+		uid: "4edc2798",
+		type: "item",
+		items: [{
+			item: "usefulbackpacks:backpack 1 2"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e379611b",
+		type: "random",
+		table: 0
+	}]
+}

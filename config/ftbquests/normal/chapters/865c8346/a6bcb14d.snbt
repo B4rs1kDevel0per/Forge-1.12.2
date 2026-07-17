@@ -1,0 +1,40 @@
+{
+	x: 3.0d,
+	y: -16.0d,
+	dependencies: [
+		"62fa518c"
+	],
+	tasks: [{
+		uid: "f2f902df",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ef0d4133",
+		type: "item",
+		item: "avaritia:resource 1 6",
+		count: 4
+	},
+	{
+		uid: "cb1cb79d",
+		type: "item",
+		item: "draconicevolution:awakened_core",
+		count: 8
+	},
+	{
+		uid: "9d694087",
+		type: "item",
+		item: "draconicevolution:wyvern_core",
+		count: 12
+	},
+	{
+		uid: "febdd52a",
+		type: "item",
+		item: "avaritia:block_resource",
+		count: 3
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -18.5d,
+	y: -3.0d,
+	dependencies: [
+		"590e3d02",
+		"ba5d8cf3"
+	],
+	tasks: [{
+		uid: "343edc66",
+		type: "item",
+		items: [{
+			id: "ic2additions:advanced_quantum_helmet",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ab75671b",
+		type: "random",
+		table: 7
+	}]
+}

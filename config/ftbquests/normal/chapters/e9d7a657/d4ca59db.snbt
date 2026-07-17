@@ -1,0 +1,23 @@
+{
+	x: -20.5d,
+	y: -4.0d,
+	dependencies: [
+		"ba5d8cf3"
+	],
+	tasks: [{
+		uid: "7817b661",
+		type: "item",
+		items: [{
+			id: "ic2additions:photon_crystal",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "15ebcc8c",
+		type: "random",
+		table: 8
+	}]
+}

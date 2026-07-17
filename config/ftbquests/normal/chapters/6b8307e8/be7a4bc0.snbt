@@ -1,0 +1,27 @@
+{
+	x: 6.5d,
+	y: -3.0d,
+	text: [
+		"Далее из жидкого лития в роторном сгустителе, вы должны сделать обычный литий!"
+	],
+	dependencies: [
+		"74950495"
+	],
+	tasks: [{
+		uid: "2076dad2",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			tag: {
+				mekData: {
+					security: 0
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "4dc21226",
+		type: "random",
+		table: 9
+	}]
+}

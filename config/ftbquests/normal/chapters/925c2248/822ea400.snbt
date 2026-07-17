@@ -1,0 +1,48 @@
+{
+	x: 0.0d,
+	y: -6.5d,
+	dependencies: [
+		"dd005e27"
+	],
+	tasks: [{
+		uid: "b13b4d07",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c3455847",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6d32a230",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fa565c38",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1ac3f49a",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	x: -3.0d,
+	y: -21.0d,
+	dependencies: [
+		"0236a4f2"
+	],
+	tasks: [{
+		uid: "e4ce14d5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 18,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "382645c4",
+		type: "item",
+		item: "draconicevolution:draconic_block"
+	},
+	{
+		uid: "30bfdbf0",
+		type: "item",
+		item: "draconicevolution:wyvern_core",
+		count: 4
+	}]
+}

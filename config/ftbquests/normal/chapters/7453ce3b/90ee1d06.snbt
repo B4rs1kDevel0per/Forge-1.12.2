@@ -1,0 +1,22 @@
+{
+	x: 3.0d,
+	y: -11.0d,
+	dependencies: [
+		"5801c934"
+	],
+	tasks: [{
+		uid: "672cf671",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "165a9808",
+		type: "item",
+		item: "draconicevolution:wyvern_energy_core",
+		count: 3
+	}]
+}

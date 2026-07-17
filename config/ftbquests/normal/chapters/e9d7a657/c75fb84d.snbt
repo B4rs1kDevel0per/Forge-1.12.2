@@ -1,0 +1,23 @@
+{
+	x: -5.0d,
+	y: -6.0d,
+	dependencies: [
+		"14d94dd9"
+	],
+	tasks: [{
+		uid: "93e58fb4",
+		type: "item",
+		items: [{
+			id: "ic2additions:advanced_saber",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "32e84e8f",
+		type: "random",
+		table: 6
+	}]
+}

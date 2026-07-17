@@ -1,0 +1,54 @@
+{
+	x: 1.0d,
+	y: -9.0d,
+	dependencies: [
+		"ae07c42f"
+	],
+	tasks: [{
+		uid: "8d1f96d6",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2a7d6592",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "02d107aa",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e56e337c",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "051a5ba7",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "1a8e19fe",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 21
+	}]
+}

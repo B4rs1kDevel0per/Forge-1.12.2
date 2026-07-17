@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: -1.5d,
+	dependencies: [
+		"22aa0d5a"
+	],
+	tasks: [{
+		uid: "26afce4c",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:gear_gold"
+		}]
+	}],
+	rewards: [{
+		uid: "bc9fb87c",
+		type: "item",
+		item: "minecraft:gold_ingot",
+		count: 12
+	}]
+}

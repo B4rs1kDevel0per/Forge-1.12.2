@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: -4.0d,
+	dependencies: [
+		"22aa0d5a"
+	],
+	tasks: [{
+		uid: "c2ab25fb",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:mining_well"
+		}]
+	}],
+	rewards: [{
+		uid: "90c28e46",
+		type: "item",
+		item: "minecraft:iron_block"
+	}]
+}

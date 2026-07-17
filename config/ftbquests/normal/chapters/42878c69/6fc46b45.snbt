@@ -1,0 +1,20 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	dependencies: [
+		"f51ed41d"
+	],
+	tasks: [{
+		uid: "c12e5b40",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:distiller"
+		}]
+	}],
+	rewards: [{
+		uid: "f26ba108",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 12
+	}]
+}

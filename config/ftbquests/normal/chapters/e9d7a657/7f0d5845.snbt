@@ -1,0 +1,22 @@
+{
+	x: -7.5d,
+	y: -21.0d,
+	text: [
+		"Осторожно, радиоактивно!"
+	],
+	dependencies: [
+		"fc82875d"
+	],
+	tasks: [{
+		uid: "6de0b942",
+		type: "item",
+		items: [{
+			item: "ic2additions:gold_250"
+		}]
+	}],
+	rewards: [{
+		uid: "0aecf3fe",
+		type: "random",
+		table: 7
+	}]
+}

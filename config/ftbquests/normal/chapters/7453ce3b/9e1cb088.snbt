@@ -1,0 +1,20 @@
+{
+	x: 2.5d,
+	y: -1.5d,
+	dependencies: [
+		"ba5a6117"
+	],
+	tasks: [{
+		uid: "b1579f6c",
+		type: "item",
+		items: [{
+			item: "draconicevolution:infused_obsidian"
+		}]
+	}],
+	rewards: [{
+		uid: "939d6d3f",
+		type: "item",
+		item: "draconicevolution:draconium_ingot",
+		count: 16
+	}]
+}

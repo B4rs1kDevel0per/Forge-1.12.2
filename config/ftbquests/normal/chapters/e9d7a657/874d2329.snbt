@@ -1,0 +1,26 @@
+{
+	x: 3.0d,
+	y: -4.5d,
+	dependencies: [
+		"19403e21"
+	],
+	tasks: [{
+		uid: "dafcc773",
+		type: "item",
+		items: [{
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "ic2coolant",
+					Amount: 1000
+				}
+			}
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "407c3d1b",
+		type: "random",
+		table: 4
+	}]
+}

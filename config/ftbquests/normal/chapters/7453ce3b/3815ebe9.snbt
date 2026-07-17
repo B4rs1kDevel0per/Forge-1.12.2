@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: -4.5d,
+	shape: "square",
+	dependencies: [
+		"ba5a6117"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "96ad27e8",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_core"
+		}]
+	}]
+}

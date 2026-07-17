@@ -1,0 +1,102 @@
+{
+	title: "КОНЕЦ СБОРКИ",
+	x: 0.0d,
+	y: -6.5d,
+	shape: "heart",
+	text: [
+		"Поздравляю, ты прошел этот долгий путь от начала до конца.",
+		"Я очень рад что вы прошли 2ую мою сборку, и надеюсь вам понравилось!",
+		"Желаю вам удачи, пока! (В будущем будут создаваться новые сборки, следите за моим акком в Minecraft Inside если понравилась эта)"
+	],
+	dependencies: [
+		"d55d60be",
+		"3654d411",
+		"1c138c06",
+		"80e53c63",
+		"100af142",
+		"4b2bc0e3",
+		"59563c9f",
+		"51da1733",
+		"c6a5de4e",
+		"2b987513",
+		"846d0882",
+		"7a04172b"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "975e2b2d",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "88ddfbea",
+		type: "item",
+		item: "avaritia:resource 1 5",
+		count: 64
+	},
+	{
+		uid: "8d091749",
+		type: "item",
+		item: "avaritia:block_resource 1 1",
+		count: 64
+	},
+	{
+		uid: "99074129",
+		type: "item",
+		item: "avaritia:block_resource 1 2",
+		count: 64
+	},
+	{
+		uid: "394739e5",
+		type: "item",
+		item: "ic2additions:tritanium_plate",
+		count: 64
+	},
+	{
+		uid: "bf92eaa2",
+		type: "item",
+		item: "draconicevolution:chaotic_core",
+		count: 64
+	},
+	{
+		uid: "8d5174bb",
+		type: "item",
+		item: "draconicevolution:chaotic_core",
+		count: 64
+	},
+	{
+		uid: "957de499",
+		type: "item",
+		item: "draconicevolution:chaos_shard",
+		count: 64
+	},
+	{
+		uid: "f9aed555",
+		type: "item",
+		item: "draconicevolution:creative_rf_source",
+		count: 64
+	},
+	{
+		uid: "b14114d9",
+		type: "item",
+		item: "minecraft:barrier",
+		count: 64
+	},
+	{
+		uid: "ff07fbdc",
+		type: "item",
+		item: "minecraft:command_block",
+		count: 64
+	},
+	{
+		uid: "43e3b7af",
+		type: "item",
+		item: "minecraft:structure_void",
+		count: 64
+	},
+	{
+		uid: "070c5d4b",
+		type: "item",
+		item: "minecraft:skull 1 5",
+		count: 64
+	}]
+}

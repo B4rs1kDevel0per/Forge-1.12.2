@@ -1,0 +1,20 @@
+{
+	x: -7.0d,
+	y: -3.0d,
+	dependencies: [
+		"fc4adbab"
+	],
+	tasks: [{
+		uid: "c3effd76",
+		type: "item",
+		items: [{
+			item: "buildcraftsilicon:advanced_crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "b5edd84b",
+		type: "item",
+		item: "minecraft:obsidian",
+		count: 12
+	}]
+}

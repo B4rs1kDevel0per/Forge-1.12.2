@@ -1,0 +1,20 @@
+{
+	x: 5.5d,
+	y: -12.0d,
+	dependencies: [
+		"79e396e1"
+	],
+	tasks: [{
+		uid: "60f6362b",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:molecular_assembler"
+		}]
+	}],
+	rewards: [{
+		uid: "6e14b567",
+		type: "item",
+		item: "appliedenergistics2:quartz_glass",
+		count: 8
+	}]
+}

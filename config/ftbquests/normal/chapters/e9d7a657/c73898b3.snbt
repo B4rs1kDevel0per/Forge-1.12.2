@@ -1,0 +1,26 @@
+{
+	x: 4.0d,
+	y: -19.0d,
+	dependencies: [
+		"a76d5e2c"
+	],
+	tasks: [{
+		uid: "7ce1ee10",
+		type: "item",
+		items: [{
+			item: "ic2additions:enrichted_sanarium"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "8bc5d105",
+		type: "random",
+		table: 7
+	},
+	{
+		uid: "cd78a0e4",
+		type: "item",
+		item: "ic2additions:irradiant_uranium_ingot",
+		count: 24
+	}]
+}

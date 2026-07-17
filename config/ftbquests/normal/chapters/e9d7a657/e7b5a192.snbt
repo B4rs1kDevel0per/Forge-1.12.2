@@ -1,0 +1,24 @@
+{
+	x: 7.0d,
+	y: -9.0d,
+	dependencies: [
+		"95e88121"
+	],
+	tasks: [{
+		uid: "00ad9381",
+		type: "item",
+		items: [{
+			id: "ic2:rotor_wood",
+			tag: {
+				advDmg: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "02746d26",
+		type: "random",
+		table: 4
+	}]
+}

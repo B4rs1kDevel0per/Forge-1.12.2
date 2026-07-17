@@ -1,0 +1,28 @@
+{
+	x: 6.5d,
+	y: 0.0d,
+	text: [
+		"После, когда в усилителе лазера накопится 500 миллионов RF энергии, вы сможете зарядить им реактор через матрицу лазерного фокуса и он заработает"
+	],
+	dependencies: [
+		"c3745570"
+	],
+	tasks: [{
+		uid: "2b8e7220",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			tag: {
+				mekData: {
+					security: 0
+				}
+			},
+			Damage: 14s
+		}]
+	}],
+	rewards: [{
+		uid: "fcb0db93",
+		type: "random",
+		table: 9
+	}]
+}

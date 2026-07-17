@@ -1,0 +1,20 @@
+{
+	x: -4.5d,
+	y: -14.0d,
+	dependencies: [
+		"f93a2a0b"
+	],
+	tasks: [{
+		uid: "3471f7e8",
+		type: "item",
+		items: [{
+			item: "ic2additions:nano_sheathing"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "1c1d0b9e",
+		type: "random",
+		table: 5
+	}]
+}

@@ -1,0 +1,62 @@
+{
+	title: "Завод трития!",
+	x: 5.0d,
+	y: -1.5d,
+	text: [
+		"Для создания трития, вам потребуется 2 штуки тепловых испарителей, в одном вы из воды будете делать рассол, а во втором из рассола - жидкий литий!"
+	],
+	dependencies: [
+		"7e9e1aea"
+	],
+	tasks: [{
+		uid: "b7f5cd4f",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:generator 1 5"
+		}]
+	},
+	{
+		uid: "20fc7d78",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:generator 1 5"
+		}]
+	},
+	{
+		uid: "891c314a",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 14"
+		}],
+		count: 2L
+	},
+	{
+		uid: "1f7671dd",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock2"
+		}],
+		count: 64L
+	},
+	{
+		uid: "0e21a486",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock2"
+		}],
+		count: 2L
+	},
+	{
+		uid: "93499e15",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 15"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "1519e8d7",
+		type: "random",
+		table: 10
+	}]
+}

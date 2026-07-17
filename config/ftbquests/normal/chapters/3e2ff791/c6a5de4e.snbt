@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: -2.5d,
+	dependencies: [
+		"9858132b"
+	],
+	tasks: [{
+		uid: "cd9d0050",
+		type: "item",
+		items: [{
+			item: "avaritia:block_resource 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "739886cb",
+		type: "xp_levels",
+		xp_levels: 100
+	}]
+}

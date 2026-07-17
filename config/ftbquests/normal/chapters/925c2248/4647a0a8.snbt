@@ -1,0 +1,19 @@
+{
+	x: 7.5d,
+	y: -14.5d,
+	shape: "square",
+	dependencies: [
+		"fab829fb"
+	],
+	tasks: [{
+		uid: "42e11bb5",
+		type: "dimension",
+		icon: "minecraft:end_portal_frame",
+		dim: 1
+	}],
+	rewards: [{
+		uid: "0e2f9417",
+		type: "random",
+		table: 1
+	}]
+}

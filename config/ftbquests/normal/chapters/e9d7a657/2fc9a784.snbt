@@ -1,0 +1,24 @@
+{
+	x: 8.5d,
+	y: -10.5d,
+	dependencies: [
+		"95e88121"
+	],
+	tasks: [{
+		uid: "d6012bed",
+		type: "item",
+		items: [{
+			id: "ic2:rotor_bronze",
+			tag: {
+				advDmg: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "16c835c3",
+		type: "random",
+		table: 4
+	}]
+}

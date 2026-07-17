@@ -1,0 +1,27 @@
+{
+	x: 2.0d,
+	y: -12.5d,
+	dependencies: [
+		"d2c7835f"
+	],
+	tasks: [{
+		uid: "eef457e1",
+		type: "item",
+		items: [{
+			item: "aroma1997sdimension:miningmultitool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f93888ce",
+		type: "item",
+		item: "minecraft:diamond_block",
+		count: 2
+	},
+	{
+		uid: "5d786925",
+		type: "random",
+		table: 1
+	}]
+}

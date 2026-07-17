@@ -1,0 +1,27 @@
+{
+	x: 6.0d,
+	y: -4.5d,
+	dependencies: [
+		"a304cee1",
+		"e9e91b6e"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "06defac2",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "a006ca4d",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "dea492b7",
+		type: "item",
+		item: "minecraft:gold_ingot",
+		count: 8
+	}]
+}

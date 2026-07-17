@@ -1,0 +1,25 @@
+{
+	x: 1.0d,
+	y: -24.0d,
+	dependencies: [
+		"72c6ad0a"
+	],
+	tasks: [{
+		uid: "696500b5",
+		type: "item",
+		items: [{
+			item: "ic2additions:duritanium_plate"
+		}]
+	}],
+	rewards: [{
+		uid: "5a83a651",
+		type: "random",
+		table: 8
+	},
+	{
+		uid: "3b58cec7",
+		type: "item",
+		item: "ic2additions:duritanium_ingot",
+		count: 8
+	}]
+}

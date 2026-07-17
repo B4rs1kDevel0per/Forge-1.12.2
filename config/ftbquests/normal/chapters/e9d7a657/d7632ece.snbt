@@ -1,0 +1,23 @@
+{
+	x: -6.5d,
+	y: -3.0d,
+	dependencies: [
+		"3f806d8f"
+	],
+	tasks: [{
+		uid: "48e6661b",
+		type: "item",
+		items: [{
+			id: "ic2:nano_helmet",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "84e3d797",
+		type: "random",
+		table: 5
+	}]
+}

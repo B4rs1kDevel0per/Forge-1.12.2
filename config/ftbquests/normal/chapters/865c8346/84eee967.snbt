@@ -1,0 +1,32 @@
+{
+	x: 0.0d,
+	y: -8.5d,
+	dependencies: [
+		"bfb75fce"
+	],
+	tasks: [{
+		uid: "96068870",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "782bfd8a",
+		type: "item",
+		item: "avaritia:block_resource",
+		count: 4
+	},
+	{
+		uid: "80f379df",
+		type: "item",
+		item: "draconicevolution:draconic_core",
+		count: 8
+	},
+	{
+		uid: "2d5fa6b4",
+		type: "item",
+		item: "ic2:crafting 1 4",
+		count: 12
+	}]
+}

@@ -1,0 +1,51 @@
+{
+	title: "Драконик Эволюшн",
+	icon: "draconicevolution:wyvern_core",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 6.0d,
+		y: -11.5d,
+		width: 3.5d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "ftbquests:textures/gui/viverna.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 6.0d,
+		y: -20.0d,
+		width: 3.5d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "ftbquests:textures/gui/dracon.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 0.0d,
+		y: -28.0d,
+		width: 10.0d,
+		height: 7.0d,
+		rotation: 0.0d,
+		image: "ftbquests:textures/gui/drreactor.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -8.5d,
+		y: -20.0d,
+		width: 4.0d,
+		height: 6.0d,
+		rotation: 0.0d,
+		image: "ftbquests:textures/gui/posoh.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

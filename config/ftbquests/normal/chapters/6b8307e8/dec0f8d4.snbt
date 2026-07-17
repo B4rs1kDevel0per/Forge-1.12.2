@@ -1,0 +1,33 @@
+{
+	x: 9.0d,
+	y: 0.0d,
+	text: [
+		"Перед тем, как включить лазерный усилитель, вы должны сделать реакционную камеру зарядить ее Д-Т топливом",
+		"и поставить его внутрь реактора, после можно включать лазер"
+	],
+	dependencies: [
+		"a4112bac"
+	],
+	tasks: [{
+		uid: "2a8cfcc1",
+		type: "item",
+		items: [{
+			id: "mekanismgenerators:hohlraum",
+			tag: {
+				mekData: {
+					stored: {
+						amount: 10,
+						gasName: "fusionfuel"
+					}
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "66f21e12",
+		type: "random",
+		table: 11
+	}]
+}

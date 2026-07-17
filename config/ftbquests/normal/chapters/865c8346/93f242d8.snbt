@@ -1,0 +1,20 @@
+{
+	x: -1.5d,
+	y: -3.0d,
+	dependencies: [
+		"bfb75fce"
+	],
+	tasks: [{
+		uid: "7c77a367",
+		type: "item",
+		items: [{
+			item: "avaritia:neutron_collector"
+		}]
+	}],
+	rewards: [{
+		uid: "7964491d",
+		type: "item",
+		item: "minecraft:iron_block",
+		count: 24
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -12.5d,
+	y: 0.0d,
+	dependencies: [
+		"5d334c9a",
+		"4b81ce12"
+	],
+	tasks: [{
+		uid: "465b956f",
+		type: "item",
+		items: [{
+			id: "ic2additions:seraphim_mk2_boots",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c810879f",
+		type: "random",
+		table: 6
+	}]
+}

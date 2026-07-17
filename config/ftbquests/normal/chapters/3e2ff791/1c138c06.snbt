@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	dependencies: [
+		"9858132b"
+	],
+	tasks: [{
+		uid: "6e98995e",
+		type: "item",
+		items: [{
+			item: "ic2additions:thermosil_plate"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "c0e9fd66",
+		type: "xp_levels",
+		xp_levels: 100
+	}]
+}

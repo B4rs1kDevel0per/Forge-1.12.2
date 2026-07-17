@@ -1,0 +1,22 @@
+{
+	x: 9.0d,
+	y: 4.0d,
+	text: [
+		"Из субстрата, жидкого этилена и кислорода в КРПД уже и создается полиэтилен"
+	],
+	dependencies: [
+		"243e6a0e"
+	],
+	tasks: [{
+		uid: "7959afd1",
+		type: "item",
+		items: [{
+			item: "mekanism:polyethene"
+		}]
+	}],
+	rewards: [{
+		uid: "68d6be31",
+		type: "random",
+		table: 11
+	}]
+}

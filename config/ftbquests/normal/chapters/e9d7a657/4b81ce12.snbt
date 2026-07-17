@@ -1,0 +1,23 @@
+{
+	x: -11.5d,
+	y: -4.0d,
+	dependencies: [
+		"95505236"
+	],
+	tasks: [{
+		uid: "82b4a6ca",
+		type: "item",
+		items: [{
+			id: "ic2additions:plasmatron_crystal",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "02a54441",
+		type: "random",
+		table: 6
+	}]
+}

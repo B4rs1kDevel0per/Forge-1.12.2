@@ -1,0 +1,22 @@
+{
+	x: 1.5d,
+	y: -0.5d,
+	dependencies: [
+		"ba5a6117"
+	],
+	tasks: [{
+		uid: "62cbf8cd",
+		type: "item",
+		items: [{
+			item: "draconicevolution:dislocator"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "aa7b4c9c",
+		type: "item",
+		item: "draconicevolution:draconium_ingot",
+		count: 16
+	}]
+}

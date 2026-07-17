@@ -1,0 +1,23 @@
+{
+	x: 8.0d,
+	y: -1.0d,
+	dependencies: [
+		"ce7f7fc8"
+	],
+	tasks: [{
+		uid: "069f2c41",
+		type: "item",
+		items: [{
+			id: "ic2:drill",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "81ec8f71",
+		type: "random",
+		table: 4
+	}]
+}

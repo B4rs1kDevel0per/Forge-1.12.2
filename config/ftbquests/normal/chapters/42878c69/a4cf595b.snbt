@@ -1,0 +1,29 @@
+{
+	x: -3.0d,
+	y: -3.0d,
+	dependencies: [
+		"22aa0d5a",
+		"cd3a2f8b",
+		"48fe8e5b"
+	],
+	tasks: [{
+		uid: "8e2f4db5",
+		type: "item",
+		items: [{
+			item: "buildcraftbuilders:quarry"
+		}]
+	},
+	{
+		uid: "01db0c7e",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:marker_volume"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "8541a350",
+		type: "item",
+		item: "minecraft:diamond_block"
+	}]
+}

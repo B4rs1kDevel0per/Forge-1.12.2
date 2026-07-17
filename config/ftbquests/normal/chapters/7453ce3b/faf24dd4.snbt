@@ -1,0 +1,22 @@
+{
+	x: 4.0d,
+	y: -15.5d,
+	dependencies: [
+		"753810f4",
+		"7479ad6a"
+	],
+	tasks: [{
+		uid: "3ed3b57a",
+		type: "item",
+		items: [{
+			item: "draconicevolution:magnet 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f5a9b032",
+		type: "item",
+		item: "draconicevolution:draconic_ingot",
+		count: 6
+	}]
+}

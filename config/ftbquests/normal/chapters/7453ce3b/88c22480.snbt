@@ -1,0 +1,20 @@
+{
+	x: 5.5d,
+	y: -8.5d,
+	dependencies: [
+		"ad7416d6"
+	],
+	tasks: [{
+		uid: "1ca7018c",
+		type: "item",
+		items: [{
+			item: "draconicevolution:particle_generator 1 2"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "cd707ad9",
+		type: "item",
+		item: "draconicevolution:draconic_core"
+	}]
+}

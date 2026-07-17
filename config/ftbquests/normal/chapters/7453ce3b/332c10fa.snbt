@@ -1,0 +1,21 @@
+{
+	x: -5.0d,
+	y: -15.5d,
+	dependencies: [
+		"b140c864",
+		"ed907113"
+	],
+	tasks: [{
+		uid: "8f4d3dad",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_crystal 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "e77e9f9e",
+		type: "item",
+		item: "draconicevolution:wyvern_energy_core",
+		count: 6
+	}]
+}

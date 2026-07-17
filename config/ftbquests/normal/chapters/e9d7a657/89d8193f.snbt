@@ -1,0 +1,25 @@
+{
+	x: 6.5d,
+	y: -4.0d,
+	dependencies: [
+		"6292fd02",
+		"55548ac8",
+		"c5b2d73d"
+	],
+	tasks: [{
+		uid: "bc36e8ab",
+		type: "item",
+		items: [{
+			id: "ic2additions:gravitool",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a9f9049a",
+		type: "random",
+		table: 5
+	}]
+}

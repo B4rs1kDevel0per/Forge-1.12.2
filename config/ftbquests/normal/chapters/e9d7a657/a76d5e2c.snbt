@@ -1,0 +1,21 @@
+{
+	x: 2.5d,
+	y: -19.5d,
+	dependencies: [
+		"d96fed17",
+		"6313b90c"
+	],
+	tasks: [{
+		uid: "bd1b0f58",
+		type: "item",
+		items: [{
+			item: "ic2additions:sanarium"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "eda289f2",
+		type: "random",
+		table: 7
+	}]
+}

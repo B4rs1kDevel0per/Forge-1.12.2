@@ -1,0 +1,20 @@
+{
+	x: -5.5d,
+	y: -13.0d,
+	dependencies: [
+		"e25e3006"
+	],
+	tasks: [{
+		uid: "0f5c08f5",
+		type: "item",
+		items: [{
+			item: "ic2additions:neptunium_239"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "c5bcbc82",
+		type: "random",
+		table: 6
+	}]
+}

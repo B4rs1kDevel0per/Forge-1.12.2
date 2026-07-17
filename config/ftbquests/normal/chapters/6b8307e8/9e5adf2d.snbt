@@ -1,0 +1,26 @@
+{
+	x: 5.0d,
+	y: 1.5d,
+	text: [
+		"Для создания Дейтерия вам нужно качать тяжелую воду помпой"
+	],
+	dependencies: [
+		"7e9e1aea"
+	],
+	tasks: [{
+		uid: "9489b664",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock",
+			tag: {
+				mekData: {}
+			},
+			Damage: 12s
+		}]
+	}],
+	rewards: [{
+		uid: "f1c0c287",
+		type: "random",
+		table: 9
+	}]
+}

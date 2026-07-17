@@ -1,0 +1,20 @@
+{
+	x: 3.0d,
+	y: -3.5d,
+	dependencies: [
+		"959ec6bd"
+	],
+	tasks: [{
+		uid: "4f006bed",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:generator 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a79dc528",
+		type: "random",
+		table: 9
+	}]
+}

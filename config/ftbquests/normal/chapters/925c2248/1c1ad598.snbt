@@ -1,0 +1,54 @@
+{
+	x: -1.0d,
+	y: -9.0d,
+	dependencies: [
+		"ae07c42f"
+	],
+	tasks: [{
+		uid: "21ed2211",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fed9d9bc",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8c2abd33",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "58d490a4",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1ba271ce",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "7d3c4633",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 21
+	}]
+}

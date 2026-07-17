@@ -1,0 +1,20 @@
+{
+	x: 3.5d,
+	y: -17.5d,
+	dependencies: [
+		"8de9fc65"
+	],
+	tasks: [{
+		uid: "bb18f077",
+		type: "item",
+		items: [{
+			item: "aeadditions:storage.component 1 9"
+		}]
+	}],
+	rewards: [{
+		uid: "de23a6e8",
+		type: "item",
+		item: "aeadditions:storage.component 1 8",
+		count: 2
+	}]
+}

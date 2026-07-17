@@ -1,0 +1,27 @@
+{
+	x: 8.5d,
+	y: -3.0d,
+	text: [
+		"После, в солнечным активаторе нейтронов вы должны из лития, создать тритий и пускать его в ядерный реактор!",
+		"Но учтите, Тритий будет создаваться только днем!"
+	],
+	dependencies: [
+		"be7a4bc0"
+	],
+	tasks: [{
+		uid: "6ef01298",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock3",
+			tag: {
+				mekData: {}
+			},
+			Damage: 1s
+		}]
+	}],
+	rewards: [{
+		uid: "4a8ee2aa",
+		type: "random",
+		table: 11
+	}]
+}

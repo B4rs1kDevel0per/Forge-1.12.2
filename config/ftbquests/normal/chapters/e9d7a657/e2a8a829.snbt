@@ -1,0 +1,24 @@
+{
+	x: -18.5d,
+	y: 0.0d,
+	dependencies: [
+		"ba5d8cf3",
+		"a1ae471d"
+	],
+	tasks: [{
+		uid: "d2019545",
+		type: "item",
+		items: [{
+			id: "ic2additions:advanced_quantum_boots",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a831405c",
+		type: "random",
+		table: 7
+	}]
+}

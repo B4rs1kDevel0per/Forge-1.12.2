@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -20.5d,
+	dependencies: [
+		"c6e1674d"
+	],
+	tasks: [{
+		uid: "66bbc6dd",
+		type: "item",
+		items: [{
+			item: "aeadditions:storage.component 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "9279a4f8",
+		type: "item",
+		item: "appliedenergistics2:material 1 57"
+	}]
+}

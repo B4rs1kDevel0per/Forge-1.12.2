@@ -1,0 +1,24 @@
+{
+	x: -15.5d,
+	y: -1.0d,
+	dependencies: [
+		"3095826d",
+		"9d72d30f"
+	],
+	tasks: [{
+		uid: "6796710c",
+		type: "item",
+		items: [{
+			id: "ic2additions:prototype_quant_leggings",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0a2c7605",
+		type: "random",
+		table: 7
+	}]
+}

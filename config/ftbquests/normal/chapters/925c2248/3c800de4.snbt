@@ -1,0 +1,25 @@
+{
+	x: 12.0d,
+	y: -8.5d,
+	dependencies: [
+		"a5babb97"
+	],
+	tasks: [{
+		uid: "1bda5970",
+		type: "item",
+		items: [{
+			item: "ironfurnaces:obsidian_furnace_idle"
+		}]
+	}],
+	rewards: [{
+		uid: "5edf678e",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "2149864a",
+		type: "item",
+		item: "minecraft:obsidian",
+		count: 12
+	}]
+}

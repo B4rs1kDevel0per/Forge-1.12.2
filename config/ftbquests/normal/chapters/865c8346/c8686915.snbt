@@ -1,0 +1,34 @@
+{
+	x: 3.0d,
+	y: -13.0d,
+	dependencies: [
+		"62fa518c"
+	],
+	tasks: [{
+		uid: "2f40f4d0",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4aa2c878",
+		type: "item",
+		item: "avaritia:resource 1 6",
+		count: 4
+	},
+	{
+		uid: "9d7b3f93",
+		type: "item",
+		item: "draconicevolution:wyvern_core",
+		count: 8
+	},
+	{
+		uid: "1ef03217",
+		type: "item",
+		item: "draconicevolution:awakened_core",
+		count: 2
+	}]
+}

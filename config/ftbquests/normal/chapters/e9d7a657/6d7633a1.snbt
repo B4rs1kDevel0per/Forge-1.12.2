@@ -1,0 +1,20 @@
+{
+	x: -5.5d,
+	y: -14.5d,
+	dependencies: [
+		"48009482"
+	],
+	tasks: [{
+		uid: "e26c515d",
+		type: "item",
+		items: [{
+			item: "ic2additions:quantum_sheathing"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "2e5a69b2",
+		type: "random",
+		table: 6
+	}]
+}

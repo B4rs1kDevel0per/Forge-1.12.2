@@ -1,0 +1,24 @@
+{
+	x: -15.5d,
+	y: -3.0d,
+	dependencies: [
+		"270b6377",
+		"9d72d30f"
+	],
+	tasks: [{
+		uid: "a325df28",
+		type: "item",
+		items: [{
+			id: "ic2additions:prototype_quant_helmet",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a8599019",
+		type: "choice",
+		table: 7
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	title: "Почти эндгейм!",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "b9786f69",
+		type: "checkmark"
+	}]
+}

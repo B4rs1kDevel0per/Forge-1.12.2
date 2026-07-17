@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	dependencies: [
+		"b7a421df"
+	],
+	tasks: [{
+		uid: "05cbc4ff",
+		type: "item",
+		items: [{
+			item: "ic2:forge_hammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8953ac35",
+		type: "random",
+		table: 0
+	}]
+}

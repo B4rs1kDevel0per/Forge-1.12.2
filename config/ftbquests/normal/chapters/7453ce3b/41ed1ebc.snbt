@@ -1,0 +1,45 @@
+{
+	x: -6.0d,
+	y: -20.0d,
+	shape: "square",
+	dependencies: [
+		"7aef1a17",
+		"c2d08b71",
+		"a697be0d",
+		"448f63e1"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "2f10a55a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 27,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_staff_of_power"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3416ed2a",
+		type: "item",
+		item: "ic2additions:tritanium_ingot",
+		count: 12
+	},
+	{
+		uid: "b8ae3483",
+		type: "item",
+		item: "draconicevolution:awakened_core",
+		count: 6
+	},
+	{
+		uid: "68532192",
+		type: "item",
+		item: "ic2additions:quantum_circuit",
+		count: 4
+	}]
+}

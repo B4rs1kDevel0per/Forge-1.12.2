@@ -1,0 +1,20 @@
+{
+	x: 3.5d,
+	y: -13.5d,
+	dependencies: [
+		"bdc23588"
+	],
+	tasks: [{
+		uid: "90b92997",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_pearl"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "12457449",
+		type: "random",
+		table: 1
+	}]
+}

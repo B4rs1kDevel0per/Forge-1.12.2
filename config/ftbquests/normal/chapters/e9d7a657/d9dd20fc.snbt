@@ -1,0 +1,26 @@
+{
+	x: 4.0d,
+	y: -20.0d,
+	dependencies: [
+		"a76d5e2c"
+	],
+	tasks: [{
+		uid: "48b0f99c",
+		type: "item",
+		items: [{
+			item: "ic2additions:sanarium_alloy"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "f2cdaaeb",
+		type: "random",
+		table: 7
+	},
+	{
+		uid: "21c26482",
+		type: "item",
+		item: "ic2:crafting 1 4",
+		count: 12
+	}]
+}

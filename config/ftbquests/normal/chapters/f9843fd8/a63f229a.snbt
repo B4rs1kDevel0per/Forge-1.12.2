@@ -1,0 +1,21 @@
+{
+	x: -1.5d,
+	y: -5.5d,
+	dependencies: [
+		"9517d310"
+	],
+	tasks: [{
+		uid: "6d6f2292",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:sky_stone_block"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "1c74475f",
+		type: "item",
+		item: "appliedenergistics2:sky_stone_block",
+		count: 24
+	}]
+}

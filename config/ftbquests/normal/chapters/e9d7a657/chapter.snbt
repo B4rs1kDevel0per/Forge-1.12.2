@@ -1,0 +1,7 @@
+{
+	title: "Индастрил крафт 2",
+	icon: "ic2:te 1 47",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

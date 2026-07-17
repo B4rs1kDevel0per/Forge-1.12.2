@@ -1,0 +1,27 @@
+{
+	x: 8.0d,
+	y: -4.5d,
+	dependencies: [
+		"2fbe214e",
+		"e9e91b6e"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "383d1827",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "a940e48f",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "3b647b0a",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 8
+	}]
+}

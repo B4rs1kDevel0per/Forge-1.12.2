@@ -1,0 +1,20 @@
+{
+	x: -7.0d,
+	y: -2.5d,
+	dependencies: [
+		"af831ffb"
+	],
+	tasks: [{
+		uid: "803ecdb4",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:spatial_io_port"
+		}]
+	}],
+	rewards: [{
+		uid: "1eb2f654",
+		type: "item",
+		item: "appliedenergistics2:material 1 24",
+		count: 4
+	}]
+}

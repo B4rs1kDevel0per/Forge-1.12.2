@@ -1,0 +1,25 @@
+{
+	x: 8.0d,
+	y: -8.5d,
+	dependencies: [
+		"c9033d6a"
+	],
+	tasks: [{
+		uid: "a87e31e8",
+		type: "item",
+		items: [{
+			item: "ironfurnaces:diamond_furnace_idle"
+		}]
+	}],
+	rewards: [{
+		uid: "2940c844",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "b1a6dc11",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 4
+	}]
+}

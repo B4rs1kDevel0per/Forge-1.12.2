@@ -1,0 +1,21 @@
+{
+	x: 1.5d,
+	y: -16.5d,
+	dependencies: [
+		"753810f4",
+		"ed188648",
+		"06321ec0"
+	],
+	tasks: [{
+		uid: "56cf2af5",
+		type: "item",
+		items: [{
+			item: "draconicevolution:reactor_part"
+		}]
+	}],
+	rewards: [{
+		uid: "7849a85a",
+		type: "item",
+		item: "draconicevolution:wyvern_core"
+	}]
+}

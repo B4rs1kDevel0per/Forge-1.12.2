@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: -19.0d,
+	dependencies: [
+		"2c25976a"
+	],
+	tasks: [{
+		uid: "041e7b7b",
+		type: "item",
+		items: [{
+			item: "ic2additions:cooling_core"
+		}]
+	}],
+	rewards: [{
+		uid: "d2641ef4",
+		type: "random",
+		table: 7
+	}]
+}

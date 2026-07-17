@@ -1,0 +1,27 @@
+{
+	x: 10.5d,
+	y: -10.5d,
+	dependencies: [
+		"da97520b",
+		"97601ada"
+	],
+	tasks: [{
+		uid: "e84fb466",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_shulker_box_purple 1 4"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3695a630",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "87bed989",
+		type: "item",
+		item: "ic2:ingot 1 4",
+		count: 12
+	}]
+}

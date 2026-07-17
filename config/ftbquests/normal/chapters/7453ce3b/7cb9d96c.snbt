@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: -4.0d,
+	dependencies: [
+		"3815ebe9",
+		"88c22480"
+	],
+	tasks: [{
+		uid: "0097e722",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_infuser"
+		}]
+	}],
+	rewards: [{
+		uid: "e8be9c02",
+		type: "item",
+		item: "draconicevolution:draconic_core",
+		count: 4
+	}]
+}

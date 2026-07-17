@@ -1,0 +1,20 @@
+{
+	x: 5.0d,
+	y: -22.5d,
+	dependencies: [
+		"6320bef2"
+	],
+	tasks: [{
+		uid: "04879956",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaos_shard"
+		}]
+	}],
+	rewards: [{
+		uid: "8b52eb7d",
+		type: "item",
+		item: "draconicevolution:chaos_shard",
+		count: 3
+	}]
+}

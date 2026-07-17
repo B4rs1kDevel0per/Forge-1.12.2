@@ -1,0 +1,15 @@
+{
+	title: "ПУТЬ К ТЕРМОЯДЕРНОМУ РЕАКТОРУ!",
+	x: 4.0d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"959ec6bd"
+	],
+	tasks: [{
+		uid: "3c06b995",
+		type: "checkmark"
+	}]
+}

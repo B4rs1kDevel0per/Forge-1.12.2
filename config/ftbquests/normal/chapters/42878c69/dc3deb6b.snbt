@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	dependencies: [
+		"22aa0d5a",
+		"f51ed41d"
+	],
+	tasks: [{
+		uid: "d3715733",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:pump"
+		}]
+	}],
+	rewards: [{
+		uid: "134ce833",
+		type: "item",
+		item: "minecraft:iron_block"
+	}]
+}

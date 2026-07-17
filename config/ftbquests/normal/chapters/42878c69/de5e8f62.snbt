@@ -1,0 +1,21 @@
+{
+	x: -7.0d,
+	y: -4.0d,
+	dependencies: [
+		"9a7411be"
+	],
+	tasks: [{
+		uid: "0a155e62",
+		type: "item",
+		items: [{
+			item: "buildcraftsilicon:gate_copier"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9728774e",
+		type: "item",
+		item: "minecraft:iron_block"
+	}]
+}

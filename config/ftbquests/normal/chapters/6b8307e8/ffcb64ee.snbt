@@ -1,0 +1,28 @@
+{
+	x: -3.5d,
+	y: 3.0d,
+	dependencies: [
+		"aa6a490d"
+	],
+	tasks: [{
+		uid: "e9902506",
+		type: "item",
+		items: [{
+			item: "mekanism:speedupgrade"
+		}],
+		count: 8L
+	},
+	{
+		uid: "772bfbe3",
+		type: "item",
+		items: [{
+			item: "mekanism:energyupgrade"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "4e43d952",
+		type: "random",
+		table: 10
+	}]
+}

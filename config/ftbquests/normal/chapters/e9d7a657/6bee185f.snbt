@@ -1,0 +1,29 @@
+{
+	x: 6.0d,
+	y: -15.5d,
+	dependencies: [
+		"43af1b67"
+	],
+	tasks: [{
+		uid: "531a97a0",
+		type: "item",
+		items: [{
+			id: "ic2additions:advanced_vajra",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "01cb33d5",
+		type: "random",
+		table: 7
+	},
+	{
+		uid: "c4c5ab7d",
+		type: "item",
+		item: "ic2additions:fullerite",
+		count: 6
+	}]
+}

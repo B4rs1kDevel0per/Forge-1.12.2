@@ -1,0 +1,27 @@
+{
+	x: 8.5d,
+	y: 3.0d,
+	text: [
+		"В Электролитическом сепараторе из тяжёлой воды будет создаваться кислород и дейтерий!",
+		"Дейтерий можно уже закачивать в реактор"
+	],
+	dependencies: [
+		"476bb44f"
+	],
+	tasks: [{
+		uid: "ede6806b",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			tag: {
+				mekData: {}
+			},
+			Damage: 4s
+		}]
+	}],
+	rewards: [{
+		uid: "02507c23",
+		type: "random",
+		table: 9
+	}]
+}

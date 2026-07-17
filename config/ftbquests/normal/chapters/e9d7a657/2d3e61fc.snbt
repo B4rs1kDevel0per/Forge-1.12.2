@@ -1,0 +1,49 @@
+{
+	x: -1.5d,
+	y: 5.0d,
+	dependencies: [
+		"c39fa612",
+		"271b89f5"
+	],
+	tasks: [{
+		uid: "293e695f",
+		type: "item",
+		items: [{
+			item: "ic2additions:thermo_hazmat_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "83a4e8b7",
+		type: "item",
+		items: [{
+			item: "ic2additions:thermo_hazmat_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "761cb047",
+		type: "item",
+		items: [{
+			item: "ic2additions:thermo_hazmat_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "62184ce5",
+		type: "item",
+		items: [{
+			item: "ic2additions:thermo_hazmat_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d5ca2ad2",
+		type: "random",
+		table: 4
+	}]
+}

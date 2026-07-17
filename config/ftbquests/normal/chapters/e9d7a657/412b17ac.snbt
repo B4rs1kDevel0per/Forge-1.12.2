@@ -1,0 +1,22 @@
+{
+	x: -6.0d,
+	y: -10.0d,
+	dependencies: [
+		"09f3c967",
+		"a318abc4",
+		"f31c7dc3"
+	],
+	tasks: [{
+		uid: "365fb43b",
+		type: "item",
+		items: [{
+			item: "ic2additions:californium_252"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "35081bbb",
+		type: "random",
+		table: 7
+	}]
+}

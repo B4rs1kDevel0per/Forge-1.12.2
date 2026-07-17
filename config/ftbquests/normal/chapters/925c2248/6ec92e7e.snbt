@@ -1,0 +1,19 @@
+{
+	x: 9.5d,
+	y: -14.0d,
+	dependencies: [
+		"4647a0a8"
+	],
+	tasks: [{
+		uid: "a5f1e6bc",
+		type: "item",
+		items: [{
+			item: "minecraft:skull 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "98303dbe",
+		type: "random",
+		table: 2
+	}]
+}

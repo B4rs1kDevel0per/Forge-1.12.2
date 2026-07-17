@@ -1,0 +1,190 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = mypanaramas
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 58
+  width = 419
+  action = deep_customization_element:title_screen_forge_top
+  actionid = bece1404-21a7-4af7-b0b3-b419db54c96a1770051156887
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 161
+  action = deep_customization_element:title_screen_branding
+  actionid = 10161e31-3761-4242-bdc9-a499529a31f71770051156887
+  y = 248
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 221
+  width = 312
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = a5e8c0f3-4afe-4d28-9d38-c6dc8db03c0a1770051156887
+  y = 280
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 370
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 5854ffb1-e741-49b9-a318-ab8e25fb311d1770051156887
+  y = 175
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 130
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = ee6ccf16-8514-432a-b012-ded4aba065af1770051156887
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = mid-left
+  splash_color = #ffff00
+  hidden = false
+  x = 420
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 4dcfa395-40d0-47c9-8fa7-818ea322a9c11770051156887
+  y = -55
+  height = 30
+}
+
+customization {
+  path = config/fancymenu/customguis/crimson.png
+  orientation = top-left
+  x = 110
+  width = 312
+  actionid = 6a61b231-4f72-445b-b89c-17596a26f0e91770051260155
+  action = addtexture
+  y = 32
+  height = 45
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Сборка от Leonsoft21%n%
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 205
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 6b0965fd-444c-4000-addb-66f0eb7961831770051395112
+  y = 251
+  alignment = left
+  height = 40
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/customguis/openbutton.png
+  backgroundnormal = config/fancymenu/customguis/defoltbutton.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/customguis/openbutton.png
+  backgroundnormal = config/fancymenu/customguis/defoltbutton.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/customguis/openbutton.png
+  backgroundnormal = config/fancymenu/customguis/defoltbutton.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/customguis/openbutton.png
+  backgroundnormal = config/fancymenu/customguis/defoltbutton.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/customguis/openbutton.png
+  backgroundnormal = config/fancymenu/customguis/defoltbutton.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/customguis/openbutton.png
+  backgroundnormal = config/fancymenu/customguis/defoltbutton.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/customguis/openbutton.png
+  backgroundnormal = config/fancymenu/customguis/defoltbutton.png
+}
+
+customization {
+  identifier = %id=376346%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/customguis/openbutton.png
+  backgroundnormal = config/fancymenu/customguis/defoltbutton.png
+}
+

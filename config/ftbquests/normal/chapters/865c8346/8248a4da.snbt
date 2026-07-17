@@ -1,0 +1,38 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	dependencies: [
+		"e42407b1"
+	],
+	tasks: [{
+		uid: "95834a66",
+		type: "item",
+		items: [{
+			item: "denseneutroncollectors:triple_compressed_neutron_collector"
+		}]
+	}],
+	rewards: [{
+		uid: "533782c1",
+		type: "item",
+		item: "ic2additions:tritanium_plate",
+		count: 4
+	},
+	{
+		uid: "e19d2e17",
+		type: "item",
+		item: "ic2additions:raw_tritanium_ingot",
+		count: 8
+	},
+	{
+		uid: "ee71d62d",
+		type: "item",
+		item: "ic2additions:duritanium_ingot",
+		count: 24
+	},
+	{
+		uid: "d1cddc0b",
+		type: "item",
+		item: "draconicevolution:awakened_core",
+		count: 4
+	}]
+}

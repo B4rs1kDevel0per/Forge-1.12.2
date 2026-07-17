@@ -1,0 +1,20 @@
+{
+	x: 1.0d,
+	y: -21.0d,
+	dependencies: [
+		"6313b90c"
+	],
+	tasks: [{
+		uid: "674ff928",
+		type: "item",
+		items: [{
+			item: "ic2additions:fullerite"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "3d0136ec",
+		type: "random",
+		table: 7
+	}]
+}

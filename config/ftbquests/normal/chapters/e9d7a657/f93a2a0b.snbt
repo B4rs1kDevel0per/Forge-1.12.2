@@ -1,0 +1,20 @@
+{
+	x: -3.5d,
+	y: -13.5d,
+	dependencies: [
+		"d7ec1869"
+	],
+	tasks: [{
+		uid: "2d453859",
+		type: "item",
+		items: [{
+			item: "ic2additions:carbon_sheathing"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "1b5a59b6",
+		type: "random",
+		table: 5
+	}]
+}

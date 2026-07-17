@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 0.5d,
+	dependencies: [
+		"fb019f13"
+	],
+	tasks: [{
+		uid: "727f7c14",
+		type: "item",
+		items: [{
+			item: "ic2additions:hybrid_circuit"
+		}]
+	}],
+	rewards: [{
+		uid: "0d6269ce",
+		type: "random",
+		table: 4
+	}]
+}

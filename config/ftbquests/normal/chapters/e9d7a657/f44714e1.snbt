@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: 2.5d,
+	dependencies: [
+		"564ff90a"
+	],
+	tasks: [{
+		uid: "e5d92ff1",
+		type: "item",
+		items: [{
+			item: "ic2additions:quantum_circuit"
+		}]
+	}],
+	rewards: [{
+		uid: "833d8050",
+		type: "random",
+		table: 7
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -6.0d,
+	y: -19.5d,
+	dependencies: [
+		"b10f0d08"
+	],
+	tasks: [{
+		uid: "eb264366",
+		type: "item",
+		items: [{
+			item: "ic2additions:breeder_core"
+		}]
+	}],
+	rewards: [{
+		uid: "3cddf45a",
+		type: "random",
+		table: 7
+	}]
+}

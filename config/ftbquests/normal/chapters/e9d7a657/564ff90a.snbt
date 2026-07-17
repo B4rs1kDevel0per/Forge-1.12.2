@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: 1.5d,
+	dependencies: [
+		"566af6ea"
+	],
+	tasks: [{
+		uid: "18dd1b51",
+		type: "item",
+		items: [{
+			item: "ic2additions:nano_circuit"
+		}]
+	}],
+	rewards: [{
+		uid: "d1306103",
+		type: "random",
+		table: 6
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: -17.0d,
+	dependencies: [
+		"0af4cb80"
+	],
+	tasks: [{
+		uid: "e48cc148",
+		type: "item",
+		items: [{
+			item: "ic2additions:reinforced_iridium_iron_plate"
+		}]
+	}],
+	rewards: [{
+		uid: "b12d6e49",
+		type: "random",
+		table: 7
+	}]
+}

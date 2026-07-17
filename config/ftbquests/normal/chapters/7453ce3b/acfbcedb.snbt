@@ -1,0 +1,21 @@
+{
+	x: 1.5d,
+	y: -22.5d,
+	dependencies: [
+		"4c189fe8",
+		"d312cb8c"
+	],
+	tasks: [{
+		uid: "f89c3495",
+		type: "item",
+		items: [{
+			item: "draconicevolution:reactor_component"
+		}]
+	}],
+	rewards: [{
+		uid: "d91e0df2",
+		type: "item",
+		item: "draconicevolution:chaotic_core",
+		count: 4
+	}]
+}

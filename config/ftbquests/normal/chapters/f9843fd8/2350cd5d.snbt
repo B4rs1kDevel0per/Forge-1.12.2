@@ -1,0 +1,21 @@
+{
+	x: 8.5d,
+	y: -12.0d,
+	dependencies: [
+		"f03240ae",
+		"09642574"
+	],
+	tasks: [{
+		uid: "287e38db",
+		type: "item",
+		items: [{
+			item: "aeadditions:fluidfiller"
+		}]
+	}],
+	rewards: [{
+		uid: "3f09d96c",
+		type: "item",
+		item: "appliedenergistics2:molecular_assembler",
+		count: 2
+	}]
+}

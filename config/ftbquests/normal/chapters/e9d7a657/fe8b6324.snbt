@@ -1,0 +1,24 @@
+{
+	x: -21.5d,
+	y: -2.0d,
+	dependencies: [
+		"d4ca59db",
+		"80b6bfcc"
+	],
+	tasks: [{
+		uid: "62ae29b4",
+		type: "item",
+		items: [{
+			id: "ic2additions:molecular_chestplate",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "56df3f92",
+		type: "random",
+		table: 8
+	}]
+}

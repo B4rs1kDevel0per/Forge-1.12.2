@@ -1,0 +1,24 @@
+{
+	x: 7.0d,
+	y: -12.0d,
+	dependencies: [
+		"95e88121"
+	],
+	tasks: [{
+		uid: "ac3b319e",
+		type: "item",
+		items: [{
+			id: "ic2additions:giant_rotor",
+			tag: {
+				advDmg: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "766e447c",
+		type: "random",
+		table: 5
+	}]
+}

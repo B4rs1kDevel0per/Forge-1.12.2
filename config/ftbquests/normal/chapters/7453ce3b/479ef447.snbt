@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: -4.0d,
+	dependencies: [
+		"3815ebe9"
+	],
+	tasks: [{
+		uid: "858ba391",
+		type: "item",
+		items: [{
+			item: "draconicevolution:diss_enchanter"
+		}]
+	}],
+	rewards: [{
+		uid: "b7319c86",
+		type: "item",
+		item: "draconicevolution:draconic_core"
+	}]
+}

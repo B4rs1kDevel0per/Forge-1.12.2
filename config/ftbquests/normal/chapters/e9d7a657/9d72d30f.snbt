@@ -1,0 +1,23 @@
+{
+	x: -14.5d,
+	y: -4.0d,
+	dependencies: [
+		"4b81ce12"
+	],
+	tasks: [{
+		uid: "b5dc9ef0",
+		type: "item",
+		items: [{
+			id: "ic2additions:auraton_crystal",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2f72ac73",
+		type: "random",
+		table: 7
+	}]
+}

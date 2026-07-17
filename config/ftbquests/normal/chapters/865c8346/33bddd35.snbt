@@ -1,0 +1,26 @@
+{
+	x: 9.0d,
+	y: -4.5d,
+	dependencies: [
+		"bfb75fce"
+	],
+	tasks: [{
+		uid: "5e2f344f",
+		type: "item",
+		items: [{
+			item: "avaritia:neutronium_compressor"
+		}]
+	}],
+	rewards: [{
+		uid: "de94b688",
+		type: "item",
+		item: "avaritia:block_resource",
+		count: 4
+	},
+	{
+		uid: "50946544",
+		type: "item",
+		item: "minecraft:iron_block",
+		count: 64
+	}]
+}

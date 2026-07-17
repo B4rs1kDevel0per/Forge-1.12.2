@@ -1,0 +1,23 @@
+{
+	x: 6.0d,
+	y: 4.0d,
+	text: [
+		"Из биотоплива, водорода и воды, нужно сделать субстрат, тоесть будущий полиэтилен"
+	],
+	dependencies: [
+		"f6647638",
+		"ac7c82d7"
+	],
+	tasks: [{
+		uid: "6c294893",
+		type: "item",
+		items: [{
+			item: "mekanism:substrate"
+		}]
+	}],
+	rewards: [{
+		uid: "4aca9b22",
+		type: "random",
+		table: 10
+	}]
+}

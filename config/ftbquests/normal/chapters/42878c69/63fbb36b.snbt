@@ -1,0 +1,20 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	dependencies: [
+		"c6c1f8a7"
+	],
+	tasks: [{
+		uid: "64341543",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:gear_wood"
+		}]
+	}],
+	rewards: [{
+		uid: "82af1d35",
+		type: "item",
+		item: "minecraft:log",
+		count: 4
+	}]
+}

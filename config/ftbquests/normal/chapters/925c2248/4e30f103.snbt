@@ -1,0 +1,25 @@
+{
+	x: -1.5d,
+	y: -14.5d,
+	dependencies: [
+		"e308b2db"
+	],
+	tasks: [{
+		uid: "c4cff302",
+		type: "item",
+		items: [{
+			item: "minecraft:enchanting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "3dbe5df5",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 3
+	},
+	{
+		uid: "9b70e685",
+		type: "random",
+		table: 1
+	}]
+}

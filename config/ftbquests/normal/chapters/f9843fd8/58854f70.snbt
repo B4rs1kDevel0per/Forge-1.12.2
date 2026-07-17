@@ -1,0 +1,23 @@
+{
+	x: 1.0d,
+	y: -21.0d,
+	dependencies: [
+		"5a837ee9"
+	],
+	tasks: [{
+		uid: "646639ed",
+		type: "item",
+		items: [{
+			id: "aeadditions:storage.fluid",
+			tag: {
+				fuzzyMode: "IGNORE_ALL"
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ba0e9e46",
+		type: "item",
+		item: "aeadditions:storage.component 1 4"
+	}]
+}

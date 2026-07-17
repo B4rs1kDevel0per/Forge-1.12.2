@@ -1,0 +1,27 @@
+{
+	x: 7.5d,
+	y: 4.0d,
+	text: [
+		"После того, как ты сделал субстрат, в Камере реакции под давлением появился этилен, из него в роторном сгустителе ты должен сделать жидкий этилен"
+	],
+	dependencies: [
+		"92be9190"
+	],
+	tasks: [{
+		uid: "b38e5a6b",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			tag: {
+				mekData: {
+					security: 0
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "6f27e653",
+		type: "random",
+		table: 9
+	}]
+}

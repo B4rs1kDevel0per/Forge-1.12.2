@@ -1,0 +1,25 @@
+{
+	x: 2.0d,
+	y: -3.0d,
+	dependencies: [
+		"3815ebe9"
+	],
+	tasks: [{
+		uid: "421edab8",
+		type: "item",
+		items: [{
+			item: "draconicevolution:grinder"
+		}]
+	}],
+	rewards: [{
+		uid: "567f291b",
+		type: "item",
+		item: "draconicevolution:draconium_ingot",
+		count: 16
+	},
+	{
+		uid: "f8bf0d14",
+		type: "item",
+		item: "draconicevolution:draconic_core"
+	}]
+}

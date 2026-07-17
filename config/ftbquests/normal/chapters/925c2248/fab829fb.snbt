@@ -1,0 +1,21 @@
+{
+	x: 5.5d,
+	y: -14.5d,
+	dependencies: [
+		"a7ba9b0b",
+		"9523e962"
+	],
+	tasks: [{
+		uid: "bd065d87",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_eye"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "7b08548b",
+		type: "random",
+		table: 1
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	x: 12.0d,
+	y: -11.5d,
+	dependencies: [
+		"da97520b",
+		"4bf38010"
+	],
+	tasks: [{
+		uid: "54909143",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_shulker_box_purple 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cedc82e3",
+		type: "loot",
+		table: 1
+	},
+	{
+		uid: "406d146d",
+		type: "item",
+		item: "minecraft:gold_ingot",
+		count: 12
+	}]
+}

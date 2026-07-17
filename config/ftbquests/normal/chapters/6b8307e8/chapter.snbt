@@ -1,0 +1,62 @@
+{
+	title: "Меканизм",
+	icon: "mekanism:basicblock 1 8",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 14.5d,
+		y: 0.0d,
+		width: 6.0d,
+		height: 6.0d,
+		rotation: 0.0d,
+		image: "ftbquests:textures/gui/reactor.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 3.0d,
+		y: 6.5d,
+		width: 6.0d,
+		height: 7.0d,
+		rotation: 0.0d,
+		image: "ftbquests:textures/gui/induc.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 7.5d,
+		y: -6.0d,
+		width: 9.0d,
+		height: 6.0d,
+		rotation: 0.0d,
+		image: "ftbquests:textures/gui/plavil.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -10.0d,
+		y: -3.0d,
+		width: 8.0d,
+		height: 6.0d,
+		rotation: 0.0d,
+		image: "ftbquests:textures/gui/shahter.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -2.5d,
+		y: 9.0d,
+		width: 6.0d,
+		height: 6.0d,
+		rotation: 0.0d,
+		image: "ftbquests:textures/gui/energocube.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

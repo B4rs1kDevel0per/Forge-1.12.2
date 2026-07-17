@@ -1,0 +1,23 @@
+{
+	x: 6.5d,
+	y: -2.5d,
+	dependencies: [
+		"9c5482cd"
+	],
+	tasks: [{
+		uid: "c2b14975",
+		type: "item",
+		items: [{
+			id: "ic2:electric_wrench",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6af424ae",
+		type: "random",
+		table: 4
+	}]
+}

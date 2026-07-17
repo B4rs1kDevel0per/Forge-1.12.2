@@ -1,0 +1,24 @@
+{
+	x: -21.5d,
+	y: -1.0d,
+	dependencies: [
+		"d4ca59db",
+		"a5393dc2"
+	],
+	tasks: [{
+		uid: "87178b18",
+		type: "item",
+		items: [{
+			id: "ic2additions:molecular_leggings",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b70ee442",
+		type: "random",
+		table: 8
+	}]
+}

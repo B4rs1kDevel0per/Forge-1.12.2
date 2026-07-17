@@ -1,0 +1,23 @@
+{
+	x: -7.5d,
+	y: -3.0d,
+	dependencies: [
+		"145e91c1"
+	],
+	tasks: [{
+		uid: "60143dea",
+		type: "item",
+		items: [{
+			id: "ic2additions:ultimate_pack",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3c6cd455",
+		type: "random",
+		table: 6
+	}]
+}

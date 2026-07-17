@@ -1,0 +1,19 @@
+{
+	x: -6.0d,
+	y: -5.0d,
+	dependencies: [
+		"4a2d59d9"
+	],
+	tasks: [{
+		uid: "a82267e3",
+		type: "item",
+		items: [{
+			item: "buildcraftsilicon:redstone_chipset 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "69445dda",
+		type: "item",
+		item: "minecraft:gold_block"
+	}]
+}

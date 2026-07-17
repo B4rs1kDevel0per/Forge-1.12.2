@@ -1,0 +1,25 @@
+{
+	x: 0.0d,
+	y: 3.5d,
+	dependencies: [
+		"b0492611"
+	],
+	tasks: [{
+		uid: "3c3d4bdd",
+		type: "item",
+		items: [{
+			id: "mekanism:energycube",
+			tag: {
+				tier: 1,
+				mekData: {
+					security: 0
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "ef7dd082",
+		type: "random",
+		table: 9
+	}]
+}

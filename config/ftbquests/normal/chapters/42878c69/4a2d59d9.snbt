@@ -1,0 +1,20 @@
+{
+	x: -5.0d,
+	y: -3.0d,
+	dependencies: [
+		"48fe8e5b"
+	],
+	tasks: [{
+		uid: "c3194f1f",
+		type: "item",
+		items: [{
+			item: "buildcraftsilicon:assembly_table"
+		}]
+	}],
+	rewards: [{
+		uid: "c09f66c7",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 6
+	}]
+}

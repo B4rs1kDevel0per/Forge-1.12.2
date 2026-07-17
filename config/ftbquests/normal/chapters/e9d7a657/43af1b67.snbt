@@ -1,0 +1,23 @@
+{
+	x: 4.5d,
+	y: -16.0d,
+	dependencies: [
+		"01d69ed1"
+	],
+	tasks: [{
+		uid: "ae309995",
+		type: "item",
+		items: [{
+			id: "ic2additions:vajra",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5fff0dec",
+		type: "random",
+		table: 7
+	}]
+}

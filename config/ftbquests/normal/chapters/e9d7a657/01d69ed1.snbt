@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: -16.5d,
+	dependencies: [
+		"3f400d46"
+	],
+	tasks: [{
+		uid: "835f29bc",
+		type: "item",
+		items: [{
+			item: "ic2additions:vajra_core"
+		}]
+	}],
+	rewards: [{
+		uid: "bb505a89",
+		type: "random",
+		table: 7
+	}]
+}

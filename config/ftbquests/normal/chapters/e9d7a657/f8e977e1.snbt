@@ -1,0 +1,23 @@
+{
+	x: -4.5d,
+	y: -7.0d,
+	dependencies: [
+		"c75fb84d"
+	],
+	tasks: [{
+		uid: "6472db8d",
+		type: "item",
+		items: [{
+			id: "ic2additions:quantum_saber",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e5269f34",
+		type: "random",
+		table: 7
+	}]
+}

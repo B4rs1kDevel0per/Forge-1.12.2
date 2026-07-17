@@ -1,0 +1,22 @@
+{
+	x: 0.0d,
+	y: -9.5d,
+	shape: "square",
+	dependencies: [
+		"0eed53b2"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "ca5bc633",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_core"
+		}]
+	}],
+	rewards: [{
+		uid: "c853b0dd",
+		type: "item",
+		item: "draconicevolution:draconic_core",
+		count: 4
+	}]
+}

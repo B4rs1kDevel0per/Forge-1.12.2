@@ -1,0 +1,56 @@
+{
+	x: 0.0d,
+	y: -3.0d,
+	dependencies: [
+		"9858132b"
+	],
+	tasks: [{
+		uid: "238b0ce8",
+		type: "item",
+		items: [{
+			id: "ic2additions:molecular_helmet",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ac60db3a",
+		type: "item",
+		items: [{
+			id: "ic2additions:molecular_chestplate",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "64b40c39",
+		type: "item",
+		items: [{
+			id: "ic2additions:molecular_leggings",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "79deea75",
+		type: "item",
+		items: [{
+			id: "ic2additions:molecular_boots",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "47e0e4d4",
+		type: "xp_levels",
+		xp_levels: 100
+	}]
+}

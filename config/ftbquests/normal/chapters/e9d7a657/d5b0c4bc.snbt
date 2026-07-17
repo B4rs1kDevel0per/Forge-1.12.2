@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: -20.0d,
+	dependencies: [
+		"b10f0d08"
+	],
+	tasks: [{
+		uid: "3192b3a6",
+		type: "item",
+		items: [{
+			item: "ic2additions:gravitation_engine"
+		}]
+	}],
+	rewards: [{
+		uid: "8635d744",
+		type: "random",
+		table: 7
+	}]
+}

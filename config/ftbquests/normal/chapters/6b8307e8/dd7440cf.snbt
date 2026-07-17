@@ -1,0 +1,25 @@
+{
+	x: 0.0d,
+	y: -5.5d,
+	dependencies: [
+		"679bd4dd"
+	],
+	tasks: [{
+		uid: "b6acbbb3",
+		type: "item",
+		items: [{
+			id: "mekanism:gastank",
+			tag: {
+				tier: 3,
+				mekData: {
+					security: 0
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "962923b2",
+		type: "random",
+		table: 10
+	}]
+}

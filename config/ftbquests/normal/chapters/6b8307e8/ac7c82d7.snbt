@@ -1,0 +1,30 @@
+{
+	title: "Фабрика Полиэтилена",
+	x: 5.0d,
+	y: 3.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"9e5adf2d"
+	],
+	tasks: [{
+		uid: "d7753787",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			tag: {
+				mekData: {
+					security: 0
+				}
+			},
+			Damage: 10s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b92e6499",
+		type: "random",
+		table: 9
+	}]
+}

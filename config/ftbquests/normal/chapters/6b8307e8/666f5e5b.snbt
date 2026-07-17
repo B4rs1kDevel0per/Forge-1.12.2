@@ -1,0 +1,25 @@
+{
+	x: -9.75d,
+	y: 0.0d,
+	dependencies: [
+		"ab10d6f9",
+		"554699d7",
+		"76611a63",
+		"7386ae61",
+		"2b6e6931"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "4b427dfa",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 4"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "88e0a2a7",
+		type: "random",
+		table: 11
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	x: 6.0d,
+	y: -22.5d,
+	dependencies: [
+		"7989baee",
+		"264de2ae"
+	],
+	tasks: [{
+		uid: "c86a8451",
+		type: "item",
+		items: [{
+			item: "ic2additions:thermosil_plate"
+		}]
+	}],
+	rewards: [{
+		uid: "b66611d6",
+		type: "random",
+		table: 8
+	},
+	{
+		uid: "e6fee3ca",
+		type: "item",
+		item: "ic2additions:tritanium_ingot",
+		count: 12
+	},
+	{
+		uid: "13db6dd1",
+		type: "item",
+		item: "ic2additions:tritanium_plate",
+		count: 12
+	}]
+}

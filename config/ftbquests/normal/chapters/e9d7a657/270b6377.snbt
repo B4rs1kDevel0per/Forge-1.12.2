@@ -1,0 +1,24 @@
+{
+	x: -12.5d,
+	y: -3.0d,
+	dependencies: [
+		"4b81ce12",
+		"cf071768"
+	],
+	tasks: [{
+		uid: "7caf2747",
+		type: "item",
+		items: [{
+			id: "ic2additions:seraphim_mk2_helmet",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e802e1cf",
+		type: "random",
+		table: 6
+	}]
+}

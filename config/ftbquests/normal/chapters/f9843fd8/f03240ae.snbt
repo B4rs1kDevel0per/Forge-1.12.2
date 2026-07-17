@@ -1,0 +1,19 @@
+{
+	x: 7.0d,
+	y: -12.0d,
+	dependencies: [
+		"f219bbe1"
+	],
+	tasks: [{
+		uid: "95537f36",
+		type: "item",
+		items: [{
+			item: "aeadditions:fluidcrafter"
+		}]
+	}],
+	rewards: [{
+		uid: "32c70406",
+		type: "item",
+		item: "appliedenergistics2:molecular_assembler"
+	}]
+}

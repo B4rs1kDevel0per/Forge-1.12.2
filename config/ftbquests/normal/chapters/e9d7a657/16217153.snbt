@@ -1,0 +1,23 @@
+{
+	x: -6.0d,
+	y: -6.0d,
+	dependencies: [
+		"3f806d8f"
+	],
+	tasks: [{
+		uid: "b755bf6f",
+		type: "item",
+		items: [{
+			id: "ic2:mining_laser",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2c2f6b5f",
+		type: "random",
+		table: 4
+	}]
+}

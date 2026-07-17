@@ -1,0 +1,21 @@
+{
+	x: -1.5d,
+	y: -3.0d,
+	dependencies: [
+		"a57c6059"
+	],
+	tasks: [{
+		uid: "37d74474",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:quartz_growth_accelerator"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "879a3bb1",
+		type: "item",
+		item: "appliedenergistics2:fluix_block",
+		count: 6
+	}]
+}

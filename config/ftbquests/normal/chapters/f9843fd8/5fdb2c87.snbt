@@ -1,0 +1,22 @@
+{
+	x: -7.5d,
+	y: -16.0d,
+	dependencies: [
+		"c09e840f"
+	],
+	tasks: [{
+		uid: "43001a4f",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:color_applicator",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d5d7e9e9",
+		type: "item",
+		item: "appliedenergistics2:material 1 36"
+	}]
+}

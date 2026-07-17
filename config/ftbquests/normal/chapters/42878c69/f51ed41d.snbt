@@ -1,0 +1,20 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	dependencies: [
+		"c6c1f8a7"
+	],
+	tasks: [{
+		uid: "79e0c38c",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:tank"
+		}]
+	}],
+	rewards: [{
+		uid: "145775f0",
+		type: "item",
+		item: "minecraft:glass",
+		count: 12
+	}]
+}

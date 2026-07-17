@@ -1,0 +1,23 @@
+{
+	title: "ВХОД",
+	x: 10.5d,
+	y: -5.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"ad7416d6"
+	],
+	tasks: [{
+		uid: "38545aa9",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_pylon"
+		}]
+	}],
+	rewards: [{
+		uid: "4674170a",
+		type: "item",
+		item: "draconicevolution:draconic_core"
+	}]
+}

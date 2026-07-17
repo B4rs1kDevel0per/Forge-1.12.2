@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: -0.5d,
+	dependencies: [
+		"ba5a6117"
+	],
+	tasks: [{
+		uid: "183a5c07",
+		type: "item",
+		items: [{
+			item: "draconicevolution:potentiometer"
+		}]
+	}]
+}

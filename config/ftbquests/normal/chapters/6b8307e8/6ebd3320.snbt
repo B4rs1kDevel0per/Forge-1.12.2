@@ -1,0 +1,21 @@
+{
+	x: -2.5d,
+	y: 2.5d,
+	dependencies: [
+		"aa6a490d"
+	],
+	tasks: [{
+		uid: "b1e35825",
+		type: "item",
+		items: [{
+			item: "mekanism:configurator"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "81347298",
+		type: "random",
+		table: 9
+	}]
+}

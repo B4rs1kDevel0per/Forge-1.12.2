@@ -1,0 +1,22 @@
+{
+	x: -6.5d,
+	y: -16.0d,
+	dependencies: [
+		"c09e840f"
+	],
+	tasks: [{
+		uid: "3b749794",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:matter_cannon",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f2d108c7",
+		type: "item",
+		item: "appliedenergistics2:material 1 36"
+	}]
+}

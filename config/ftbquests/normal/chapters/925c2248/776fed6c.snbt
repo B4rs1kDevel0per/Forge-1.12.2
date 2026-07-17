@@ -1,0 +1,25 @@
+{
+	x: 10.0d,
+	y: -4.5d,
+	dependencies: [
+		"3de2b376"
+	],
+	tasks: [{
+		uid: "5aecdc5c",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "0a7eb03c",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "cdc38df2",
+		type: "item",
+		item: "minecraft:obsidian",
+		count: 8
+	}]
+}

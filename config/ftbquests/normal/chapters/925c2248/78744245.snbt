@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: -8.5d,
+	dependencies: [
+		"1d7314e0"
+	],
+	tasks: [{
+		uid: "0d7d5dd0",
+		type: "item",
+		items: [{
+			item: "ironfurnaces:iron_furnace_idle"
+		}]
+	}],
+	rewards: [{
+		uid: "8c779152",
+		type: "random",
+		table: 0
+	}]
+}

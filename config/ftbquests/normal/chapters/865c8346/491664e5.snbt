@@ -1,0 +1,20 @@
+{
+	x: 6.0d,
+	y: -4.5d,
+	dependencies: [
+		"33bddd35"
+	],
+	tasks: [{
+		uid: "c562c030",
+		type: "item",
+		items: [{
+			item: "avaritia:singularity 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "320982e5",
+		type: "item",
+		item: "minecraft:nether_star",
+		count: 32
+	}]
+}

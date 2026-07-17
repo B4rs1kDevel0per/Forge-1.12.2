@@ -1,0 +1,22 @@
+{
+	x: 0.0d,
+	y: -4.5d,
+	shape: "square",
+	dependencies: [
+		"2f896935"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "06f917ce",
+		type: "item",
+		items: [{
+			item: "avaritia:extreme_crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "4dcd5cf8",
+		type: "item",
+		item: "avaritia:resource 1 1",
+		count: 8
+	}]
+}

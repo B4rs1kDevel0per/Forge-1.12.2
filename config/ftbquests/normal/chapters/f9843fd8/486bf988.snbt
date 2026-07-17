@@ -1,0 +1,21 @@
+{
+	x: -3.5d,
+	y: -3.0d,
+	dependencies: [
+		"a3e4fd52"
+	],
+	tasks: [{
+		uid: "55711e74",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:dense_energy_cell",
+			tag: {}
+		}]
+	}],
+	rewards: [{
+		uid: "6e9d1dd1",
+		type: "item",
+		item: "appliedenergistics2:material 1 23",
+		count: 8
+	}]
+}

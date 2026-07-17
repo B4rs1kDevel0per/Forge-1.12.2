@@ -1,0 +1,29 @@
+{
+	x: 9.0d,
+	y: -16.0d,
+	dependencies: [
+		"4647a0a8"
+	],
+	tasks: [{
+		uid: "c04809d5",
+		type: "kill",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "24aaa0ed",
+		type: "random",
+		table: 2
+	},
+	{
+		uid: "1c15cd03",
+		type: "item",
+		item: "draconicevolution:dragon_heart"
+	},
+	{
+		uid: "ea372775",
+		type: "item",
+		item: "draconicevolution:draconium_ingot",
+		count: 48
+	}]
+}

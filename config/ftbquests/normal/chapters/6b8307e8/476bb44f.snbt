@@ -1,0 +1,23 @@
+{
+	x: 6.5d,
+	y: 3.0d,
+	text: [
+		"Что-бы создавалась не обычная вода, а тяжёлая, нужно поставить в помпу улучшение Фильтр, тогда вместо обычной воды будеть качаться тяжелая!"
+	],
+	dependencies: [
+		"9e5adf2d"
+	],
+	tasks: [{
+		uid: "e45a5027",
+		type: "item",
+		items: [{
+			item: "mekanism:filterupgrade"
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "a562fb3d",
+		type: "random",
+		table: 9
+	}]
+}

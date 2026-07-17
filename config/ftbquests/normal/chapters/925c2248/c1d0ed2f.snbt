@@ -1,0 +1,20 @@
+{
+	x: 3.0d,
+	y: -11.5d,
+	dependencies: [
+		"d6fc79cd"
+	],
+	tasks: [{
+		uid: "763c39af",
+		type: "item",
+		items: [{
+			item: "aroma1997sdimension:portalframesphere"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "23d1e129",
+		type: "random",
+		table: 1
+	}]
+}

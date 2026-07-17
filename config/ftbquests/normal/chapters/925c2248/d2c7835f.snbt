@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: -12.5d,
+	dependencies: [
+		"ae07c42f"
+	],
+	tasks: [{
+		uid: "765c004b",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "8a394ada",
+		type: "random",
+		table: 1
+	}]
+}

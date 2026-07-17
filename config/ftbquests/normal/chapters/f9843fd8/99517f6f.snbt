@@ -1,0 +1,48 @@
+{
+	x: -2.5d,
+	y: -28.5d,
+	dependencies: [
+		"e50be412"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "9ce1652c",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:creative_storage_cell",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7069e454",
+		type: "item",
+		item: "draconicevolution:chaos_shard",
+		count: 2
+	},
+	{
+		uid: "a1b454ec",
+		type: "item",
+		item: "draconicevolution:awakened_core",
+		count: 6
+	},
+	{
+		uid: "fe204e40",
+		type: "item",
+		item: "ic2additions:tritanium_ingot",
+		count: 8
+	},
+	{
+		uid: "d2fcd56c",
+		type: "item",
+		item: "ic2:crafting 1 4",
+		count: 24
+	},
+	{
+		uid: "52c5e36d",
+		type: "item",
+		item: "draconicevolution:draconic_energy_core",
+		count: 4
+	}]
+}

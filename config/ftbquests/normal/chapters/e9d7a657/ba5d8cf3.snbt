@@ -1,0 +1,23 @@
+{
+	x: -17.5d,
+	y: -4.0d,
+	dependencies: [
+		"9d72d30f"
+	],
+	tasks: [{
+		uid: "aa8aaea9",
+		type: "item",
+		items: [{
+			id: "ic2additions:quantum_crystal",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6e40abf2",
+		type: "random",
+		table: 7
+	}]
+}

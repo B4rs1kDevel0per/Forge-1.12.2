@@ -1,0 +1,25 @@
+{
+	x: 5.0d,
+	y: -24.0d,
+	dependencies: [
+		"264de2ae"
+	],
+	tasks: [{
+		uid: "d84598ae",
+		type: "item",
+		items: [{
+			item: "ic2additions:tritanium_plate"
+		}]
+	}],
+	rewards: [{
+		uid: "ae1a33d7",
+		type: "random",
+		table: 8
+	},
+	{
+		uid: "d6bab728",
+		type: "item",
+		item: "ic2additions:tritanium_ingot",
+		count: 12
+	}]
+}

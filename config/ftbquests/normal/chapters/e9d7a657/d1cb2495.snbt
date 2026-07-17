@@ -1,0 +1,24 @@
+{
+	x: -21.5d,
+	y: 0.0d,
+	dependencies: [
+		"e2a8a829",
+		"d4ca59db"
+	],
+	tasks: [{
+		uid: "05d60988",
+		type: "item",
+		items: [{
+			id: "ic2additions:molecular_boots",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e230ff11",
+		type: "random",
+		table: 8
+	}]
+}

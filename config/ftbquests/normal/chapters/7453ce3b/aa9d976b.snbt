@@ -1,0 +1,23 @@
+{
+	title: "ВЫХОД",
+	x: 6.5d,
+	y: -5.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"ad7416d6"
+	],
+	tasks: [{
+		uid: "63285be8",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_pylon"
+		}]
+	}],
+	rewards: [{
+		uid: "2129cca7",
+		type: "item",
+		item: "draconicevolution:draconic_core"
+	}]
+}

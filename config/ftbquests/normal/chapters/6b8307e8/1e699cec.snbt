@@ -1,0 +1,63 @@
+{
+	x: -2.5d,
+	y: 9.0d,
+	dependencies: [
+		"d08a7a33"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "284e18bb",
+		type: "item",
+		items: [{
+			id: "mekanism:energycube",
+			tag: {
+				tier: 4,
+				mekData: {
+					energyStored: 1.7976931348623157E308d
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "79eab08f",
+		type: "item",
+		item: "draconicevolution:chaotic_core",
+		count: 8
+	},
+	{
+		uid: "d7a020bd",
+		type: "item",
+		item: "draconicevolution:awakened_core",
+		count: 16
+	},
+	{
+		uid: "5f38ac91",
+		type: "item",
+		item: "minecraft:nether_star",
+		count: 64
+	},
+	{
+		uid: "09c4069d",
+		type: "item",
+		item: "ic2additions:duritanium_ingot",
+		count: 64
+	},
+	{
+		uid: "fdf86d27",
+		type: "item",
+		item: "ic2additions:raw_tritanium_ingot",
+		count: 64
+	},
+	{
+		uid: "6235f0fa",
+		type: "item",
+		item: "ic2additions:tritanium_ingot",
+		count: 64
+	},
+	{
+		uid: "fecfe1a0",
+		type: "item",
+		item: "ic2:crafting 1 4",
+		count: 48
+	}]
+}

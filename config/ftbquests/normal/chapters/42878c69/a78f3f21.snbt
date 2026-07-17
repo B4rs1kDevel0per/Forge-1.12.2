@@ -1,0 +1,21 @@
+{
+	x: -2.5d,
+	y: 1.0d,
+	dependencies: [
+		"22aa0d5a",
+		"f51ed41d"
+	],
+	tasks: [{
+		uid: "cbe0f9f2",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:flood_gate"
+		}]
+	}],
+	rewards: [{
+		uid: "e432827e",
+		type: "item",
+		item: "buildcraftcore:gear_iron",
+		count: 4
+	}]
+}

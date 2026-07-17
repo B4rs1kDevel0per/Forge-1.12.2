@@ -1,0 +1,26 @@
+{
+	x: 0.0d,
+	y: -14.5d,
+	dependencies: [
+		"d2c7835f"
+	],
+	tasks: [{
+		uid: "bc6629c7",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "82ec84ed",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "d875c022",
+		type: "item",
+		item: "minecraft:obsidian",
+		count: 12
+	}]
+}

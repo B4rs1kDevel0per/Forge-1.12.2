@@ -1,0 +1,22 @@
+{
+	x: 0.5d,
+	y: -3.0d,
+	dependencies: [
+		"75d7655c"
+	],
+	tasks: [{
+		uid: "70426a83",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:wrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f35b5c63",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 8
+	}]
+}

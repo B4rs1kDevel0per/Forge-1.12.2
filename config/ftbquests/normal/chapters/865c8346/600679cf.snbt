@@ -1,0 +1,28 @@
+{
+	x: -3.0d,
+	y: -4.5d,
+	dependencies: [
+		"bfb75fce"
+	],
+	tasks: [{
+		uid: "ca96e812",
+		type: "item",
+		items: [{
+			item: "avaritia:skullfire_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1508643d",
+		type: "item",
+		item: "ic2:misc_resource 1 1",
+		count: 12
+	},
+	{
+		uid: "eda737fe",
+		type: "item",
+		item: "ic2additions:quantum_sheathing",
+		count: 12
+	}]
+}

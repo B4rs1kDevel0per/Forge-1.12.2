@@ -1,0 +1,27 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	dependencies: [
+		"9858132b"
+	],
+	tasks: [{
+		uid: "7e200515",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 27,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_staff_of_power"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "16f1dad8",
+		type: "xp_levels",
+		xp_levels: 100
+	}]
+}

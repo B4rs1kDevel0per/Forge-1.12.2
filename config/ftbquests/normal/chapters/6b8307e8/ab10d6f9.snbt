@@ -1,0 +1,27 @@
+{
+	x: -7.5d,
+	y: -1.0d,
+	dependencies: [
+		"68e0684b"
+	],
+	tasks: [{
+		uid: "044c8909",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock",
+			tag: {
+				recipeType: 2,
+				mekData: {
+					security: 0,
+					upgrades: []
+				}
+			},
+			Damage: 7s
+		}]
+	}],
+	rewards: [{
+		uid: "4c845a31",
+		type: "random",
+		table: 10
+	}]
+}

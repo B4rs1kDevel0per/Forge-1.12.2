@@ -1,0 +1,27 @@
+{
+	x: -3.0d,
+	y: -19.0d,
+	dependencies: [
+		"0236a4f2"
+	],
+	tasks: [{
+		uid: "278cab06",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f94382f2",
+		type: "item",
+		item: "draconicevolution:awakened_core"
+	},
+	{
+		uid: "cf07aa11",
+		type: "item",
+		item: "ic2additions:tritanium_ingot",
+		count: 2
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: 4.5d,
+	y: -3.5d,
+	dependencies: [
+		"a304cee1"
+	],
+	tasks: [{
+		uid: "98116161",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "26d5a17b",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "69222c45",
+		type: "item",
+		item: "ic2:ingot 1 4",
+		count: 8
+	}]
+}

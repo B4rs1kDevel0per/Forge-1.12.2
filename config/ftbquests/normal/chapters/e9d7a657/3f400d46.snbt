@@ -1,0 +1,25 @@
+{
+	x: 3.0d,
+	y: -18.0d,
+	dependencies: [
+		"6313b90c"
+	],
+	tasks: [{
+		uid: "ddd3dd7b",
+		type: "item",
+		items: [{
+			item: "minecraft:nether_star"
+		}]
+	}],
+	rewards: [{
+		uid: "ddf777e4",
+		type: "random",
+		table: 7
+	},
+	{
+		uid: "96543963",
+		type: "item",
+		item: "minecraft:nether_star",
+		count: 2
+	}]
+}

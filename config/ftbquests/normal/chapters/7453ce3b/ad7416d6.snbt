@@ -1,0 +1,23 @@
+{
+	title: "Хранилище энергии",
+	x: 3.0d,
+	y: -6.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"3815ebe9"
+	],
+	tasks: [{
+		uid: "238b0e4d",
+		type: "item",
+		items: [{
+			item: "draconicevolution:particle_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "03672ac6",
+		type: "item",
+		item: "draconicevolution:draconic_core"
+	}]
+}

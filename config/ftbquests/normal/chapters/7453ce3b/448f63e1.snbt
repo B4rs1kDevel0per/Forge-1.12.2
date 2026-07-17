@@ -1,0 +1,33 @@
+{
+	x: -3.0d,
+	y: -20.0d,
+	dependencies: [
+		"0236a4f2"
+	],
+	tasks: [{
+		uid: "ea3a89ae",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 18,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_pick"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "496ce2d8",
+		type: "item",
+		item: "draconicevolution:awakened_core"
+	},
+	{
+		uid: "c0721151",
+		type: "item",
+		item: "ic2additions:tritanium_ingot",
+		count: 4
+	}]
+}

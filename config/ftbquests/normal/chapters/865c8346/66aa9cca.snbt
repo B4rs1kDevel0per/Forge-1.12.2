@@ -1,0 +1,34 @@
+{
+	x: 3.5d,
+	y: -11.5d,
+	dependencies: [
+		"62fa518c"
+	],
+	tasks: [{
+		uid: "2fd17559",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "88a2f480",
+		type: "item",
+		item: "avaritia:resource 1 5",
+		count: 5
+	},
+	{
+		uid: "3739dadd",
+		type: "item",
+		item: "draconicevolution:draconic_ingot",
+		count: 12
+	},
+	{
+		uid: "f2f60cfe",
+		type: "item",
+		item: "avaritia:resource 1 4",
+		count: 12
+	}]
+}

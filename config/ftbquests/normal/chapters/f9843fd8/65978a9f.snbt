@@ -1,0 +1,23 @@
+{
+	x: 1.5d,
+	y: -4.5d,
+	dependencies: [
+		"d8caabee",
+		"25267845"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "944f657d",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 1"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "ed5f0303",
+		type: "item",
+		item: "appliedenergistics2:material 1 1",
+		count: 8
+	}]
+}

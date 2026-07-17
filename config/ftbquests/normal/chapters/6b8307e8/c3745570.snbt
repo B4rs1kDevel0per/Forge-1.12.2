@@ -1,0 +1,26 @@
+{
+	x: 5.5d,
+	y: 0.0d,
+	text: [
+		"С помощью лазеров вы будете зарежать усилитель лазера!"
+	],
+	dependencies: [
+		"7e9e1aea"
+	],
+	tasks: [{
+		uid: "1e76c0bf",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			tag: {
+				mekData: {}
+			},
+			Damage: 13s
+		}]
+	}],
+	rewards: [{
+		uid: "0c47b7ce",
+		type: "random",
+		table: 10
+	}]
+}

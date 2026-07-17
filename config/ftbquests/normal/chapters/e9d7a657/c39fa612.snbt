@@ -1,0 +1,48 @@
+{
+	x: -2.5d,
+	y: 4.0d,
+	dependencies: [
+		"dfe8884b"
+	],
+	tasks: [{
+		uid: "8918a092",
+		type: "item",
+		items: [{
+			item: "ic2additions:fire_proximity_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bb06a3d6",
+		type: "item",
+		items: [{
+			item: "ic2additions:fire_proximity_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3a3f5590",
+		type: "item",
+		items: [{
+			item: "ic2additions:fire_proximity_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "30cc0346",
+		type: "item",
+		items: [{
+			item: "ic2additions:fire_proximity_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2bef902e",
+		type: "random",
+		table: 1
+	}]
+}

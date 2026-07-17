@@ -1,0 +1,14 @@
+{
+	title: "Последний рывок к концу!",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	text: [
+		""
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "a1057074",
+		type: "checkmark"
+	}]
+}

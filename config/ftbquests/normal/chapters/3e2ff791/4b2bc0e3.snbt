@@ -1,0 +1,19 @@
+{
+	x: 2.5d,
+	y: 1.5d,
+	dependencies: [
+		"9858132b"
+	],
+	tasks: [{
+		uid: "24eaea91",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:creative_energy_cell"
+		}]
+	}],
+	rewards: [{
+		uid: "f6d477a5",
+		type: "xp_levels",
+		xp_levels: 100
+	}]
+}

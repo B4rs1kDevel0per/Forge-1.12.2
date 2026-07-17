@@ -1,0 +1,26 @@
+{
+	x: 16.0d,
+	y: -11.5d,
+	dependencies: [
+		"2d12eb73"
+	],
+	tasks: [{
+		uid: "713629e1",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_shulker_box_purple 1 6"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "897cc61e",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "2143084f",
+		type: "item",
+		item: "minecraft:obsidian",
+		count: 12
+	}]
+}

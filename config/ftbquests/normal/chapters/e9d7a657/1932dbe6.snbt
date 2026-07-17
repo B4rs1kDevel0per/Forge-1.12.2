@@ -1,0 +1,23 @@
+{
+	x: -0.5d,
+	y: 2.0d,
+	dependencies: [
+		"61e27a48"
+	],
+	tasks: [{
+		uid: "b133b3c1",
+		type: "item",
+		items: [{
+			id: "ic2:advanced_batpack",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8d549710",
+		type: "random",
+		table: 4
+	}]
+}

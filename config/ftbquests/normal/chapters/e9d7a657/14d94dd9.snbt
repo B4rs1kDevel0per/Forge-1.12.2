@@ -1,0 +1,23 @@
+{
+	x: -5.5d,
+	y: -5.0d,
+	dependencies: [
+		"3f806d8f"
+	],
+	tasks: [{
+		uid: "23207d99",
+		type: "item",
+		items: [{
+			id: "ic2:nano_saber",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2d3cfe1b",
+		type: "random",
+		table: 5
+	}]
+}

@@ -1,0 +1,60 @@
+{
+	title: "Термоядерный реактор!",
+	x: 11.0d,
+	y: 0.0d,
+	text: [
+		"Ну, вот реактор и готов, теперь вы можете поставить жидкостное охлаждение по жеданию, или просто запустить реактор лазером!"
+	],
+	dependencies: [
+		"dec0f8d4",
+		"b4d946f7"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "927da89d",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:reactor 1 1"
+		}],
+		count: 64L
+	},
+	{
+		uid: "4f5111ae",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:reactor 1 2"
+		}],
+		count: 2L
+	},
+	{
+		uid: "f1709bca",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:reactor"
+		}]
+	},
+	{
+		uid: "fc2f3414",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:reactorglass 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "bec18b11",
+		type: "random",
+		table: 11
+	},
+	{
+		uid: "dcc9cef2",
+		type: "item",
+		item: "mekanism:atomicalloy",
+		count: 48
+	},
+	{
+		uid: "1a5301fc",
+		type: "item",
+		item: "mekanism:basicblock 1 8",
+		count: 32
+	}]
+}

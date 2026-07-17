@@ -1,0 +1,23 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	dependencies: [
+		"f6c27f8f"
+	],
+	tasks: [{
+		uid: "3574d638",
+		type: "item",
+		items: [{
+			id: "ic2:charging_lapotron_crystal",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5641948f",
+		type: "random",
+		table: 6
+	}]
+}

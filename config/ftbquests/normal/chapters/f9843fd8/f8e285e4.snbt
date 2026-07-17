@@ -1,0 +1,22 @@
+{
+	x: -5.0d,
+	y: -9.5d,
+	dependencies: [
+		"d780d41e",
+		"4c3e2114",
+		"3edb1759"
+	],
+	tasks: [{
+		uid: "80f6b9da",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:security_station"
+		}]
+	}],
+	rewards: [{
+		uid: "f3988bc6",
+		type: "item",
+		item: "appliedenergistics2:material 1 37",
+		count: 2
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	dependencies: [
+		"63fbb36b"
+	],
+	tasks: [{
+		uid: "8342b2c9",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:paintbrush"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c853bb9a",
+		type: "item",
+		item: "minecraft:wool",
+		count: 4
+	}]
+}

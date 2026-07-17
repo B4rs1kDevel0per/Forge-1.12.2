@@ -1,0 +1,21 @@
+{
+	x: -5.0d,
+	y: -17.5d,
+	dependencies: [
+		"3edb1759",
+		"f36e72f0"
+	],
+	tasks: [{
+		uid: "3a250fb1",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crafting_storage_16k"
+		}]
+	}],
+	rewards: [{
+		uid: "105edc6e",
+		type: "item",
+		item: "appliedenergistics2:material 1 37",
+		count: 2
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 6.5d,
+	y: -6.5d,
+	dependencies: [
+		"76bab497"
+	],
+	tasks: [{
+		uid: "8f815e4c",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 29"
+		}]
+	}],
+	rewards: [{
+		uid: "37d28a97",
+		type: "item",
+		item: "minecraft:wool",
+		count: 6
+	}]
+}

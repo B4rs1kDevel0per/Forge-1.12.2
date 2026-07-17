@@ -1,0 +1,24 @@
+{
+	x: -21.5d,
+	y: -3.0d,
+	dependencies: [
+		"7064bbd9",
+		"d4ca59db"
+	],
+	tasks: [{
+		uid: "d2e40936",
+		type: "item",
+		items: [{
+			id: "ic2additions:molecular_helmet",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "eba06a4b",
+		type: "random",
+		table: 8
+	}]
+}

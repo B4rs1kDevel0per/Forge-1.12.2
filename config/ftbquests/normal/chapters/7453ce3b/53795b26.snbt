@@ -1,0 +1,21 @@
+{
+	x: -1.5d,
+	y: -22.5d,
+	dependencies: [
+		"d312cb8c",
+		"ed907113"
+	],
+	tasks: [{
+		uid: "6d6a0b8e",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "e9e1bd82",
+		type: "item",
+		item: "draconicevolution:chaotic_core",
+		count: 4
+	}]
+}

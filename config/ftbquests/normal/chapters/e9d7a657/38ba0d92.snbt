@@ -1,0 +1,19 @@
+{
+	x: -6.0d,
+	y: -16.5d,
+	dependencies: [
+		"dcd621cd"
+	],
+	tasks: [{
+		uid: "0eeb3355",
+		type: "item",
+		items: [{
+			item: "ic2additions:irradiant_reinforced_plate"
+		}]
+	}],
+	rewards: [{
+		uid: "f132d0d6",
+		type: "random",
+		table: 7
+	}]
+}

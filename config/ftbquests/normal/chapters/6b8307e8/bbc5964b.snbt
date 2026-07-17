@@ -1,0 +1,23 @@
+{
+	x: 3.0d,
+	y: 5.0d,
+	dependencies: [
+		"bff6c0e5"
+	],
+	tasks: [{
+		uid: "ac0a5f8a",
+		type: "item",
+		items: [{
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 0
+			},
+			Damage: 4s
+		}]
+	}],
+	rewards: [{
+		uid: "b646db86",
+		type: "random",
+		table: 10
+	}]
+}

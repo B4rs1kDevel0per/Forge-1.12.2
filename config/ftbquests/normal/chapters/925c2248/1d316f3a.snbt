@@ -1,0 +1,54 @@
+{
+	x: -1.0d,
+	y: -11.0d,
+	dependencies: [
+		"d2c7835f"
+	],
+	tasks: [{
+		uid: "a04d5425",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "84ea737e",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b9519603",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "78a1a979",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a919248b",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "2190b3ab",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 21
+	}]
+}

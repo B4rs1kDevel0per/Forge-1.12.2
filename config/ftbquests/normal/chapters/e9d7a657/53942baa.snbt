@@ -1,0 +1,26 @@
+{
+	x: 5.5d,
+	y: -19.0d,
+	dependencies: [
+		"c73898b3"
+	],
+	tasks: [{
+		uid: "c2605517",
+		type: "item",
+		items: [{
+			item: "ic2additions:enrichted_sanarium_alloy"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "0efec37f",
+		type: "random",
+		table: 7
+	},
+	{
+		uid: "09808125",
+		type: "item",
+		item: "ic2additions:sanarium_alloy",
+		count: 4
+	}]
+}

@@ -1,0 +1,40 @@
+{
+	x: 3.0d,
+	y: -21.5d,
+	dependencies: [
+		"0236a4f2"
+	],
+	tasks: [{
+		uid: "17e9f568",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f4b9c3f7",
+		type: "item",
+		item: "ic2additions:photon",
+		count: 4
+	},
+	{
+		uid: "652d5dcd",
+		type: "item",
+		item: "draconicevolution:draconic_block",
+		count: 3
+	},
+	{
+		uid: "d6f75c3f",
+		type: "item",
+		item: "draconicevolution:awakened_core",
+		count: 2
+	},
+	{
+		uid: "a1d536df",
+		type: "item",
+		item: "ic2additions:tritanium_ingot",
+		count: 6
+	}]
+}

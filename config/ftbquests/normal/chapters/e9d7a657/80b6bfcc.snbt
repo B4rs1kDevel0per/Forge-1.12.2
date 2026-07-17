@@ -1,0 +1,24 @@
+{
+	x: -18.5d,
+	y: -2.0d,
+	dependencies: [
+		"2d83981b",
+		"ba5d8cf3"
+	],
+	tasks: [{
+		uid: "82905da4",
+		type: "item",
+		items: [{
+			id: "ic2additions:advanced_quantum_chestplate",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dc03aad3",
+		type: "random",
+		table: 7
+	}]
+}

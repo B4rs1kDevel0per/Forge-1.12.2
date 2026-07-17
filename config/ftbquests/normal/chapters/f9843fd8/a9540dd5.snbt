@@ -1,0 +1,24 @@
+{
+	x: 4.5d,
+	y: -21.0d,
+	dependencies: [
+		"3edde98a"
+	],
+	tasks: [{
+		uid: "fc0aa4f0",
+		type: "item",
+		items: [{
+			id: "aeadditions:storage.gas",
+			tag: {
+				fuzzyMode: "IGNORE_ALL"
+			},
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "31524681",
+		type: "item",
+		item: "aeadditions:storage.component 1 11"
+	}]
+}

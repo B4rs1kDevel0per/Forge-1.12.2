@@ -1,0 +1,38 @@
+{
+	x: 7.0d,
+	y: -19.0d,
+	dependencies: [
+		"3f400d46",
+		"53942baa"
+	],
+	tasks: [{
+		uid: "e92ed5c5",
+		type: "item",
+		items: [{
+			item: "ic2additions:quantum_core"
+		}]
+	}],
+	rewards: [{
+		uid: "2d55d023",
+		type: "random",
+		table: 7
+	},
+	{
+		uid: "57b0203a",
+		type: "item",
+		item: "ic2additions:quantum_circuit",
+		count: 8
+	},
+	{
+		uid: "19b0b0e5",
+		type: "item",
+		item: "ic2additions:enrichted_sanarium_alloy",
+		count: 4
+	},
+	{
+		uid: "f418edad",
+		type: "item",
+		item: "minecraft:nether_star",
+		count: 8
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: 6.0d,
+	y: -1.0d,
+	dependencies: [
+		"ce7f7fc8"
+	],
+	tasks: [{
+		uid: "f0219ba0",
+		type: "item",
+		items: [{
+			id: "ic2:chainsaw",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6cd48f5d",
+		type: "random",
+		table: 4
+	}]
+}

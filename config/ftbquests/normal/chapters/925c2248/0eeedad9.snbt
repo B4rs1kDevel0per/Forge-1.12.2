@@ -1,0 +1,21 @@
+{
+	x: 9.5d,
+	y: -15.0d,
+	dependencies: [
+		"4647a0a8"
+	],
+	tasks: [{
+		uid: "c9d3aea5",
+		type: "item",
+		items: [{
+			item: "minecraft:elytra"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "297b37c3",
+		type: "random",
+		table: 2
+	}]
+}

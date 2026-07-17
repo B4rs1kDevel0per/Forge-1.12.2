@@ -1,0 +1,19 @@
+{
+	x: -2.5d,
+	y: -11.0d,
+	dependencies: [
+		"3eba9c2a"
+	],
+	tasks: [{
+		uid: "d14d14b9",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 240"
+		}]
+	}],
+	rewards: [{
+		uid: "455c58e5",
+		type: "item",
+		item: "minecraft:sticky_piston"
+	}]
+}

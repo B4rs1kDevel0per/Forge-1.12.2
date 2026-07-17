@@ -1,0 +1,29 @@
+{
+	x: 8.0d,
+	y: 0.0d,
+	text: [
+		"В химическом наполнителе вы из Дейтерия и Трития будете делать Д-Т топливо, его нужно немного так как оно нужно лишь для реакционной камеры"
+	],
+	dependencies: [
+		"b92d45bd",
+		"ebef06c3"
+	],
+	tasks: [{
+		uid: "420ccdd2",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			tag: {
+				mekData: {
+					security: 0
+				}
+			},
+			Damage: 2s
+		}]
+	}],
+	rewards: [{
+		uid: "9b0d76f5",
+		type: "random",
+		table: 9
+	}]
+}

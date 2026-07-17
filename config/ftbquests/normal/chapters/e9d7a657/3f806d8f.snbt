@@ -1,0 +1,23 @@
+{
+	x: -6.0d,
+	y: -4.0d,
+	dependencies: [
+		"b12d6c83"
+	],
+	tasks: [{
+		uid: "6e7dca3c",
+		type: "item",
+		items: [{
+			id: "ic2:energy_crystal",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d55deef7",
+		type: "random",
+		table: 4
+	}]
+}

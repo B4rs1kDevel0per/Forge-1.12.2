@@ -1,0 +1,41 @@
+{
+	x: 0.0d,
+	y: -6.0d,
+	dependencies: [
+		"9517d310"
+	],
+	tasks: [{
+		uid: "793c852a",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 13"
+		}]
+	},
+	{
+		uid: "bdec71f1",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 14"
+		}]
+	},
+	{
+		uid: "aec0f70e",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 15"
+		}]
+	},
+	{
+		uid: "2d6c7327",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 19"
+		}]
+	}],
+	rewards: [{
+		uid: "38fedb5d",
+		type: "item",
+		item: "appliedenergistics2:material",
+		count: 8
+	}]
+}

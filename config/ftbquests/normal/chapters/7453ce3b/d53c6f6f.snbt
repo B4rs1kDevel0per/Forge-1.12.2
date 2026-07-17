@@ -1,0 +1,34 @@
+{
+	x: 3.0d,
+	y: -19.5d,
+	dependencies: [
+		"0236a4f2"
+	],
+	tasks: [{
+		uid: "f56e0a73",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "106d2953",
+		type: "item",
+		item: "draconicevolution:draconic_block",
+		count: 2
+	},
+	{
+		uid: "a6492347",
+		type: "item",
+		item: "ic2additions:photon",
+		count: 6
+	},
+	{
+		uid: "362f0e51",
+		type: "item",
+		item: "ic2additions:tritanium_ingot",
+		count: 6
+	}]
+}

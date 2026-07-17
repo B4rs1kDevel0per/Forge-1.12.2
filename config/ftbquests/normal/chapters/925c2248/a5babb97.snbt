@@ -1,0 +1,25 @@
+{
+	x: 10.0d,
+	y: -8.5d,
+	dependencies: [
+		"10acda62"
+	],
+	tasks: [{
+		uid: "ef452b59",
+		type: "item",
+		items: [{
+			item: "ironfurnaces:glass_furnace_idle"
+		}]
+	}],
+	rewards: [{
+		uid: "f116b79a",
+		type: "item",
+		item: "minecraft:glass",
+		count: 32
+	},
+	{
+		uid: "740e6657",
+		type: "random",
+		table: 1
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 2.5d,
+	y: 1.0d,
+	dependencies: [
+		"bc453505",
+		"61e27a48"
+	],
+	tasks: [{
+		uid: "9d8a1528",
+		type: "item",
+		items: [{
+			id: "ic2:advanced_charging_re_battery",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "249ea9cf",
+		type: "random",
+		table: 4
+	}]
+}
