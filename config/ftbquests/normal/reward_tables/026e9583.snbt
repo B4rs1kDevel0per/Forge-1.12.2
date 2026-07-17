@@ -1,5 +1,5 @@
 {
-	title: "IC2_MID",
+	title: "IC2: средний",
 	loot_size: 1,
 	rewards: [{
 		item: "ic2:crafting 1 1",

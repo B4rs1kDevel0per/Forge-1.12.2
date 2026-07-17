@@ -1,0 +1,21 @@
+key.categories.ftbmods=Моды FTB
+action_bar=Панель действий
+ftblib.teams=Команды
+
+commands.reload.usage=/reload [*|domain:*|domain:id]
+commands.my_settings.usage=/my_settings <id настройки> [значение]
+commands.team.usage=/team
+commands.team.settings.usage=/team settings <id настройки> [значение]
+commands.team.create.usage=/team create <id> [цвет]
+commands.team.leave.usage=/team leave
+commands.team.transfer_ownership.usage=/team transfer_ownership <игрок>
+commands.team.kick.usage=/team kick <игрок>
+commands.team.join.usage=/team join <команда>
+commands.team.status.usage=/team status <игрок> [статус]
+commands.team.status.set=Статус для %s установлен на %s
+commands.team.status.cant_set=Статус нельзя установить!
+commands.team.msg.usage=/team msg <сообщение...>
+commands.team.delete.usage=/team delete <команда>
+commands.team.request_invite.usage=/team request_invite <команда>
+commands.add_fake_player.usage=/add_fake_player <uuid> <имя>
+commands.client_config.usage=/client_config

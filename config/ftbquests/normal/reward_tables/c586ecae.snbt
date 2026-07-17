@@ -1,5 +1,5 @@
 {
-	title: "random_mid",
+	title: "Случайный: средний",
 	loot_size: 1,
 	rewards: [{
 		item: "minecraft:iron_ingot",

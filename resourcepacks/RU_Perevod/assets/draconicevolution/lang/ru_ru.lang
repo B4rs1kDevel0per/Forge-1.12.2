@@ -1,0 +1,30 @@
+tile.draconicevolution:item_dislocation_inhibitor.name=Проектор поля нормализации телепортации
+
+item.draconicevolution:sun_focus.name=Солнечный фокус
+
+info.creativeCapacitor.txt=Может отдавать или принимать энергию
+
+entity.draconicevolution:lootCore.name=Ядро добычи
+
+config.field.armorSpeedFOVWarp.entry=Отключить искажение поля зрения
+config.field.armorSpeedFOVWarp.description=Если включено, искажение поля зрения от эффекта скорости брони будет убрано.
+
+gui.reactor.rsMode_field_inv.txt=То же, что и Сдерживающее поле, но сигнал инвертирован.
+gui.reactor.rsMode_sat.txt=Выводит сигнал от 0 до 15 по мере изменения насыщения от 0 до 100%
+gui.reactor.rsMode_sat_inv.txt=То же, что и Насыщение, но сигнал инвертирован.
+gui.reactor.rsMode_fuel.txt=Выводит сигнал от 0 до 15 по мере увеличения конверсии топлива от 0 до 100%, сигнал 15 => 90% конверсии.
+gui.reactor.rsMode_fuel_inv.txt=То же, что и Конверсия, но сигнал инвертирован.
+
+gui.draconiumChest.editDefaultRegion.btn=Изменить ввод/вывод для не назначенных слотов
+gui.draconiumChest.enableRegion.btn=Включить область
+gui.draconiumChest.disableRegion.btn=Отключить область
+gui.draconiumChest.regionSelect.info=Кликайте и перетаскивайте в инвентаре сундука, чтобы изменить слоты, назначенные этой области. Область должна быть включена, и области не могут перекрываться.
+gui.draconiumChest.ioRegions.btn=Области ввода/вывода
+gui.draconiumChest.ioRegions.info=Нажмите здесь, чтобы настроить области ввода/вывода. Области ввода/вывода позволяют создавать группы слотов с настраиваемым вводом/выводом по сторонам. Вы также можете указать, какие слоты может использовать встроенная печь. Пример: предметы, поступающие с левой стороны сундука, попадают в область 1 и переплавливаются в печи, выход печи идёт в область 2, из которой можно извлечь предметы с правой стороны сундука.
+gui.draconiumChest.toggleIOMode.down.btn=Переключить режим ввода/вывода снизу
+gui.draconiumChest.toggleIOMode.up.btn=Переключить режим ввода/вывода сверху
+gui.draconiumChest.toggleIOMode.north.btn=Переключить режим ввода/вывода спереди
+gui.draconiumChest.toggleIOMode.south.btn=Переключить режим ввода/вывода сзади
+gui.draconiumChest.toggleIOMode.west.btn=Переключить режим ввода/вывода справа
+gui.draconiumChest.toggleIOMode.east.btn=Переключить режим ввода/вывода слева
+gui.draconiumChest.toggleIOMode.furnace.btn=Переключить режим ввода/вывода печи

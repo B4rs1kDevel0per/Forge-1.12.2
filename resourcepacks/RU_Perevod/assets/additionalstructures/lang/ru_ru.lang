@@ -1,0 +1,17 @@
+// Mystcraft integration
+
+additionalstructures.symbol.normal_generation.name=Дополнительные биомные структуры
+additionalstructures.symbol.end_structures.name=Дополнительные структуры Края
+additionalstructures.symbol.nether_structures.name=Дополнительные структуры Нижнего мира
+additionalstructures.symbol.desert_structures.name=Дополнительные пустынные структуры
+additionalstructures.symbol.snow_structures.name=Дополнительные снежные структуры
+additionalstructures.symbol.jungle_structures.name=Дополнительные джунглевые структуры
+additionalstructures.symbol.swamp_structures.name=Дополнительные болотные структуры
+additionalstructures.symbol.forest_structures.name=Дополнительные лесные структуры
+additionalstructures.symbol.plains_structures.name=Дополнительные равнинные структуры
+additionalstructures.symbol.mountain_structures.name=Дополнительные горные структуры
+additionalstructures.symbol.mesa_structures.name=Дополнительные структуры плато
+additionalstructures.symbol.ocean_structures.name=Дополнительные океанические структуры
+additionalstructures.symbol.savanna_structures.name=Дополнительные саванные структуры
+additionalstructures.symbol.wasteland_structures.name=Дополнительные структуры пустошей
+additionalstructures.symbol.spooky_structures.name=Дополнительные жуткие структуры

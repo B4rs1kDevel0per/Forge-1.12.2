@@ -1,5 +1,5 @@
 {
-	title: "MEK_LOW",
+	title: "Меканизм: низкий",
 	loot_size: 1,
 	rewards: [{
 		item: "mekanism:enrichedalloy",

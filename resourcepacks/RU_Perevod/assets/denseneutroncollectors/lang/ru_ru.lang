@@ -1,0 +1,6 @@
+tile.denseneutroncollectors:compressed_neutron_collector.name=Плотный сборщик нейтрония
+tile.denseneutroncollectors:double_compressed_neutron_collector.name=Уплотнённый сборщик нейтрония
+tile.denseneutroncollectors:triple_compressed_neutron_collector.name=Максимально уплотнённый сборщик нейтрония
+container.compressed_neutron_collector=Плотный сборщик нейтрония
+container.double_compressed_neutron_collector=Уплотнённый сборщик нейтрония
+container.triple_compressed_neutron_collector=Максимально уплотнённый сборщик нейтрония

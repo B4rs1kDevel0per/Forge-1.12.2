@@ -1,0 +1,3 @@
+commands.kubejs.usage=/kubejs <подкоманда>
+commands.kubejs.reload.usage=/kubejs reload
+commands.kubejs.docs.usage=/kubejs docs
